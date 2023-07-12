@@ -140,7 +140,7 @@ description="Boondocks Cartoon theme."
 
 name="4 The Kids"
 version="1.0"
-url="https://archive.org/download/4thekids_202307/NEW%2BKIDS%2BBUILD%2BFINAL.zipp"
+url="https://archive.org/download/4thekids_202307/NEW%2BKIDS%2BBUILD%2BFINAL.zip"
 minor="http://"
 gui="http://"
 kodi="20.0"
