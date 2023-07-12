@@ -68,19 +68,35 @@ adult="no"
 info="http://"
 description="NBA Michael Jordan theme'
 
-name="Marvel VS Capcom VS DC'
-version="1.2"
+name="MARVEL VS CAPCOM VS DC"
+version="1.0"
 url="https://archive.org/download/marvel_202307/MARVEL%20.zip"
 minor="http://"
 gui="http://"
-kodi="20.0"
+kodi="21.0"
 theme="http://"
 icon="https://archive.org/download/marvel_202307/301986.jpg"
 fanart="https://archive.org/download/marvel_202307/301986.jpg"
 preview="http://"
 adult="no"
 info="http://"
-description="Video Games Theme'
+description="VIDEO GAME THEME
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 name="GIFFY"
 version="1.0"
