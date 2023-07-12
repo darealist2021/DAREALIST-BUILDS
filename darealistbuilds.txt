@@ -70,13 +70,13 @@ description="NBA Michael Jordan theme'
 
 name="Marvel VS Capcom VS DC'
 version="1.2"
-url="https://archive.org/download/marvel-vs-capcom-vs-dc-2/MARVEL%20VS%20CAPCOM%20VS%20DC%202.zip"
+url="https://archive.org/download/marvel_202307/MARVEL%20.zip"
 minor="http://"
 gui="http://"
 kodi="20.0"
 theme="http://"
-icon="https://archive.org/download/marvel-vs-capcom-vs-dc-2/301986.jpg"
-fanart="https://archive.org/download/marvel-vs-capcom-vs-dc-2/301986.jpg"
+icon="https://archive.org/download/marvel_202307/301986.jpg"
+fanart="https://archive.org/download/marvel_202307/301986.jpg"
 preview="http://"
 adult="no"
 info="http://"
