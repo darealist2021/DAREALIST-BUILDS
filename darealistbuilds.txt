@@ -28,7 +28,7 @@ description="DAREALIST TV. Cut the cord."
 
 name="WIDGET ZONE"
 version="1.0"
-url="https://archive.org/details/widget-zone-1.2/WIDGET%20ZONE%20V1.1.zip"
+url="https://archive.org/details/widgetzone1.2/WIDGET%20ZONE%20V1.2.zip"
 minor="http://"
 gui="http://"
 kodi="20.0"
