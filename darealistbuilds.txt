@@ -211,7 +211,7 @@ description="Adult gif based build"
 
 name="Call Of Duty XXX"
 version="1.2"
-url="https://archive.org/download/callofdutyxxx_202307/CALL%20OF%20DUTY%20XXX%20v1.2.zip.zip"
+url="https://archive.org/download/callofdutyxxx_202307/CALL%20OF%20DUTY%20XXX%20v1.2.zip."
 minor="http://"
 gui="http://"
 kodi="20.0"
