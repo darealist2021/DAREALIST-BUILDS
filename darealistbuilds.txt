@@ -112,7 +112,7 @@ description="NFL Cowboys theme."
 
 name="DOLPHINS"
 version="1.0"
-url="https://archive.org/download/miami-dolphins/MIAMI%20DOLPHINS%20v1.zip"
+url="https://archive.org/download/miami-dolphins_202307/MIAMI%20DOLPHINS%20v1.zip"
 minor="http://"
 gui="http://"
 kodi="20.0"
