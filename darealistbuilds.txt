@@ -265,7 +265,7 @@ fanart="https://imgur.com/a4v7sTc.jpg"
 preview="http://"
 adult="no"
 info="http://"
-description="MOVIE THEME"
+description="SWITCHABLE MOVIE THEME"
 
 name="[COLOR white][B].........DAREALIST ADULT BUILDS.........[/COLOR][/B]"
 version="20.0"
