@@ -255,7 +255,7 @@ description="BOXING/UFC/MMA"
 
 name="FAST & FURIOUS"
 version="1.0"
-url="https://archive.org/download/fast-furious-v-1/FAST%20%26%20FURIOUS%20v1.zip"
+url="https://archive.org/download/fast-furious-v-1.1/FAST%20FURIOUS%20%20v1.1.zip"
 minor="http://"
 gui="http://"
 kodi="20.0"
