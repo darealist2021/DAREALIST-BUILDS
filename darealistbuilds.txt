@@ -84,8 +84,8 @@ info="http://"
 description="VIDEO GAME THEME
 
 name="GIFFY"
-version="3.9"
-url="https://archive.org/download/giffy-no-xxx-/GIFFY%20NO%20XXX%20v9.zip"
+version="4.0"
+url="https://archive.org/download/giffy-no-xxx-v-4/GIFFY%20NO%20XXX%20v4.zip"
 minor="http://"
 gui="http://"
 kodi="20.0"
