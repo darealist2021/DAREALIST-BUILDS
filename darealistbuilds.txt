@@ -98,7 +98,7 @@ description="NBA THEME"
 
 name="GOLDENSTATE WARRIORS"
 version="1.0"
-url="https://archive.org/download/warriors-v-1/WARRIORS%20v1.zip"
+url="https://archive.org/download/warriors-v-1.1/WARRIORS%20v1.1.zip"
 minor="http://"
 gui="http://"
 kodi="20.0"
