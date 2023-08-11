@@ -181,7 +181,7 @@ info="http://"
 description="Gif based build"
 
 name="CALL OF DUTY"
-version="1."
+version="1.4"
 url="https://archive.org/download/call-of-duty-1.4/CALL%2BOF%2BDUTY%2B1.4.zip"
 minor="http://"
 gui="http://"
