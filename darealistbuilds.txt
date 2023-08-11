@@ -406,7 +406,7 @@ description="Adult gif based build"
 
 name="CALL OF DUTY XXX"
 version="1.3"
-url="https://archive.org/download/call-of-duty-v-1.3-xxx/CALL%20OF%20DUTY%20v1.3%20XXX.zip"
+url="https://mega.nz/file/L6pAlQSS#lByjETF1qm223EkXbK2rakVs43VbcQfZwP1rzhfLb8o.zip"
 minor="http://"
 gui="http://"
 kodi="20.0"
