@@ -405,7 +405,7 @@ info="http://"
 description="Adult gif based build"
 
 name="CALL OF DUTY XXX"
-version="1.3"
+version="1.4"
 url="https://mega.nz/file/L6pAlQSS#lByjETF1qm223EkXbK2rakVs43VbcQfZwP1rzhfLb8o.zip"
 minor="http://"
 gui="http://"
