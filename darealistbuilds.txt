@@ -321,7 +321,7 @@ info="http://"
 description="49ers NFL BUILD."
 
 name="NBA 2K & MADDEN NFL"
-version="2.1"
+version="2.2"
 url="https://archive.org/download/madden-2-k-v-1/MADDEN2K%20v1.zip"
 minor="http://"
 gui="http://"
