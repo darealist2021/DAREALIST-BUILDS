@@ -112,7 +112,7 @@ description="NBA THEME"
 
 name="WARRIORS"
 version="1.5"
-url="https://archive.org/download/warriors-1.5/WARRIORS%2B1.5.zip"
+url="https://archive.org/download/warriors-1.5_202308/WARRIORS%2B1.5.zip"
 minor="http://"
 gui="http://"
 kodi="20.0"
