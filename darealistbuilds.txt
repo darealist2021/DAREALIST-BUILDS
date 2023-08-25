@@ -449,7 +449,7 @@ description="HORROR THEME."
 
 name="ALIEN VS PREDATOR XXX"
 version="1.1"
-url="https://archive.org/download/alien-vs-predator-1-xxx/ALIEN%2BVS%2BPREDATOR%2B1%20XXX.zip"
+url="https://archive.org/download/alien-vs-predator-1.1_20230825/ALIEN%2BVS%2BPREDATOR%2B1.1.zip"
 minor="http://"
 gui="http://"
 kodi="20.0"
