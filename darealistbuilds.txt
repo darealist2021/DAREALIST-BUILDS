@@ -276,7 +276,7 @@ fanart="https://imgur.com/vzkW8ir.jpg"
 preview="http://"
 adult="no"
 info="http://"
-description="VIDEO GAME THEME
+description="VIDEO GAME THEME"
 
 name="GIFFY"
 version="4.2"
