@@ -94,7 +94,7 @@ fanart="https://i.imgur.com/waYl18H.jpg"
 preview="http://"
 adult="no"
 info="http://"
-description="THE REAPER INSPIRED ZIPPO MEDIA"
+description="THE REAPER INSPIRED BY ZIPPO MEDIA"
 
 name="CATS & DOGS"
 version="1.0"
