@@ -24,7 +24,7 @@ fanart="https://i.imgur.com/PG8cdBh.jpg"
 preview="http://"
 adult="no"
 info="http://"
-description="2PAC VS BIGGIE"
+description="CHOOSE 2PAC OR BIGGIE SWITCHABLE THEME"
 
 
 name="WIDGET ZONE"
