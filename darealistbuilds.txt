@@ -309,7 +309,7 @@ description="DRAGON BALL Z THEME"
 
 name="GIFFY"
 version="4.3"
-url="https://archive.org/download/giffy-4.3/GIFFY%2B4.3.zipp"
+url="https://archive.org/download/giffy-4.3/GIFFY%2B4.3.zip"
 minor="http://"
 gui="http://"
 kodi="20.0"
