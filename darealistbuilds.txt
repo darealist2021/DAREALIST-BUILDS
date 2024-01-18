@@ -28,8 +28,8 @@ description="CHOOSE 2PAC OR BIGGIE SWITCHABLE THEME"
 
 
 name="WIDGET ZONE"
-version="1.3"
-url="https://archive.org/download/widget-zone-v-1.3/WIDGET%20ZONE%20v1.3.zip"
+version="1.4"
+url="https://archive.org/download/widget-zone-1.4/Widget%20Zone%201.4.zip"
 minor="http://"
 gui="http://"
 kodi="20.0"
