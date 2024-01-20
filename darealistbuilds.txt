@@ -561,7 +561,7 @@ info="http://"
 description="ALIEN VS PREDATOR MOVIE THEME."
 
 name="DAREALIST TV"
-version="3.7"
+version="3.8"
 url="https://archive.org/download/darealist-3.8_202401/DAREALIST%203.8.zip"
 minor="http://"
 gui="http://"
