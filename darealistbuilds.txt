@@ -562,7 +562,7 @@ description="ALIEN VS PREDATOR MOVIE THEME."
 
 name="DAREALIST TV"
 version="3.7"
-url="https://archive.org/download/darealist-tv-3.7/DAREALIST%20TV%203.7.zip"
+url="https://archive.org/download/darealist-3.8_202401/DAREALIST%203.8.zip"
 minor="http://"
 gui="http://"
 kodi="20.0"
