@@ -309,7 +309,7 @@ description="DRAGON BALL Z THEME"
 
 name="GIFFY"
 version="5.3"
-url="https://archive.org/download/giffy_202402/GIFFY%205.3.zip"
+url="https://archive.org/download/giffy_20240208/giffy.zip"
 minor="http://"
 gui="http://"
 kodi="20.0"
