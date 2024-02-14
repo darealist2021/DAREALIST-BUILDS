@@ -239,7 +239,7 @@ description="NBA THEME"
 
 name="THE G.O.A.T"
 version="1.7"
-url="https://archive.org/download/goat_20240213/GOAT%201.7.zip"
+url="https://archive.org/download/goat_20240214/GOAT.zip"
 minor="http://"
 gui="http://"
 kodi="20.0"
@@ -249,7 +249,7 @@ fanart="https://imgur.com/cH17RWS.jpg"
 preview="http://"
 adult="no"
 info="http://"
-description="NBA Michael Jordan theme'
+description="THE GOAT:Michael Jordan 
 
 name="BOSTON RED SOX"
 version="1.1"
