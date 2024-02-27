@@ -435,8 +435,8 @@ description="BOONDOCKS TV SHOW THEME."
 
 
 name="KIDS CORNER"
-version="2.1"
-url="https://archive.org/download/4-the-kids-2.2/4%2BTHE%2BKIDS%2B2.2.zip"
+version="2.2"
+url="https://archive.org/download/kidscorner_202402/kids%2Bcorner.zip"
 minor="http://"
 gui="http://"
 kodi="20.0"
