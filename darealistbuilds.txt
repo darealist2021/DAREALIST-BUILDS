@@ -57,7 +57,7 @@ description="GIF BASED BRUCE LEE BUILD INSPIRED BY ZIPPO MEDIA"
 
 name="BLUE BEETLE"
 version="1.5"
-url="https://archive.org/download/blue-beetle_202402/BLUE%2BBEETLE.zip"
+url="https://archive.org/download/blue-beetle_20240227/BLUE%2BBEETLE.zip"
 minor="http://"
 gui="http://"
 kodi="20.0"
