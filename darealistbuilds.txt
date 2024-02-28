@@ -127,7 +127,7 @@ description="CATS & DOGS SWITCHABLE"
 
 name="STEELERS"
 version="2.9"
-url="https://archive.org/download/steelers-2.9/STEELERS%202.9.zip"
+url="https://archive.org/download/steelers-update/STEELERS%20UPDATE.zip"
 minor="http://"
 gui="http://"
 kodi="20.0"
