@@ -29,7 +29,7 @@ description="CHOOSE 2PAC OR BIGGIE SWITCHABLE THEME"
 
 name="WIDGET ZONE"
 version="1.4"
-url="https://archive.org/download/zone_20240301/zone.zip"
+url="https://archive.org/download/zone-2/ZONE%282%29.zip"
 minor="http://"
 gui="http://"
 kodi="20.0"
