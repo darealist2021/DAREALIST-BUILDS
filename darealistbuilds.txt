@@ -43,7 +43,7 @@ description="WIDGET ZONE"
 
 name="BRUCE LEE"
 version="1.4"
-url="https://archive.org/download/bruce-lee_202402/BRUCE%2BLEE.zip"
+url="https://archive.org/download/bruce_202403/bruce.zip"
 minor="http://"
 gui="http://"
 kodi="20.0"
