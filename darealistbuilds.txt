@@ -14,7 +14,7 @@ description="DAREALIST Builds. Please select from the list below."
 
 name="2PAC VS BIGGIE"
 version="1.3"
-url="https://archive.org/download/pac-vs-biggie-1.3/PAC%20VS%20BIGGIE%201.3.zip"
+url="https://archive.org/download/2pacvsbiggie/2pac%2Bvs%2Bbiggie.zip"
 minor="http://"
 gui="http://"
 kodi="20.0"
