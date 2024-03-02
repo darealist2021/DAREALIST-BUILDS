@@ -71,7 +71,7 @@ description="BLUE BEETLE MOVIE THEME"
 
 name="STRANGER THINGS"
 version="1.6"
-url="https://archive.org/download/stranger-things_202402/STRANGER%2BTHINGS.zip"
+url="https://archive.org/download/strangerthings_202403/stranger%2Bthings.zip"
 minor="http://"
 gui="http://"
 kodi="20.0"
