@@ -576,7 +576,7 @@ description="DAREALIST TV. Cut the cord."
 
 name="GIFFY XXX"
 version="5.3"
-url="https://archive.org/download/giffy-with-adult/GIFFY%2BWITH%2BADULT.zip"
+url="https://archive.org/download/giffyxxx_202403/giffy%2Bxxx.zip"
 minor="http://"
 gui="http://"
 kodi="20.0"
