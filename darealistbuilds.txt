@@ -590,7 +590,7 @@ description="DAREALIST TV. Cut the cord."
 
 name="GIFFY XXX"
 version="5.4"
-url="https://archive.org/download/giffyxxx_20240321/giffy%2Bxxx.zip"
+url="https://archive.org/download/GIFFYXXXXXX/GIFFYXXXXXX.zip"
 minor="http://"
 gui="http://"
 kodi="20.0"
