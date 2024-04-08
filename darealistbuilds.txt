@@ -630,17 +630,17 @@ adult="no"
 info="http://"
 description="Call Of Duty Adult Build."
 
-name="[COLOR white][B].........DAREALIST OMEGA BUILDS.........[/COLOR][/B]"
-version="21.0"
-url="http://"
+name="[COLOR white][B].........DAREALIST ADULT KODI 21 OMEGA BUILDS.........[/COLOR][/B]"
+version="1.0"
+url="http://"https://archive.org/download/darealist-tv-omega-v-1/DAREALIST%20TV%20OMEGA%20V1.zip
 minor="http://"
 gui="http://"
 kodi="21.0"
 theme="http://"
-icon="https://"
-fanart="http://"
+icon="https://"https://imgur.com/QOnDmMX
+fanart="http://"https://imgur.com/QOnDmMX
 preview="http://"
 adult="no"
 info="http://"
-description="DAREALIST OMEGA Builds."
+description="DAREALIST BUILD WITH LOTS OF LIVE TV AND ADULT CONTENT."
 
