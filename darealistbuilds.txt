@@ -644,17 +644,5 @@ adult="no"
 info="http://"
 description="DAREALIST Builds. Please select from the list below."
 
-name="DAREALIST TV"
-version="1.0"
-url="https://archive.org/download/darealist-tv-omega-v-1/DAREALIST%20TV%20OMEGA%20V1.zip"
-minor="http://"
-gui="http://"
-kodi="21.0"
-theme="http://"
-icon="https://https://imgur.com/QOnDmMX.jpg"
-fanart="https://https://imgur.com/QOnDmMX.jpg"
-preview="http://"
-adult="no"
-info="http://"
-description="DAREALIST BUILD WITH LOTS OF LIVE TV AND ADULT CONTENT."
+
 
