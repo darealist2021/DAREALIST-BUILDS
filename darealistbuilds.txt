@@ -703,3 +703,19 @@ adult="no"
 info="http://"
 description="DAREALIST TV WITH LOTS OF LIVE TV AND ADULT CONTENT."
 
+name="GIFFY XXX"
+version="1.0"
+url="https://archive.org/download/giffy-xxx-omega/GIFFY%2BXXX%2BOMEGA.zip"
+minor="http://"
+gui="http://"
+kodi="21.0"
+theme="http://"
+icon="https://imgur.com/PIcZQpp.jpg"
+fanart="https://imgur.com/PIcZQpp.jpg"
+preview="http://"
+adult="no"
+info="http://"
+description="BUILD WITH LOTS OF GIFS INCLUDES ADULT CONTENT."
+
+
+
