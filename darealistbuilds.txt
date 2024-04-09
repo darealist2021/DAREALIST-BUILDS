@@ -716,6 +716,21 @@ adult="no"
 info="http://"
 description="KODI BUILD WITH LOTS OF GIFS ."
 
+name="MASTER OF FEAR ADULT"
+version="1.0"
+url="https://archive.org/download/omega-masters-of-fear-xxx/OMEGA%20MASTERS%20OF%20FEAR%20XXX.zip"
+minor="http://"
+gui="http://"
+kodi="21.0"
+theme="http://"
+icon="https://imgur.com/f7sMbYP.jpg"
+fanart="https://imgur.com/f7sMbYP.jpg"
+preview="http://"
+adult="no"
+info="http://"
+description="HORROR THEMED BUILD WITH ADULT CONTENT ."
+
+
 
 
 
