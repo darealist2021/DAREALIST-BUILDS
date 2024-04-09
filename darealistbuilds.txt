@@ -673,6 +673,21 @@ adult="no"
 info="http://"
 description="DAREALIST TV WITH LOTS OF LIVE TV MOVIES AND SPORTS."
 
+name="MASTERS OF FEAR NO ADULT CONTENT"
+version="1.0"
+url="https://archive.org/download/masters-of-fear-no-adult-omega/masters%20of%20fear%20no%20adult%20omega.zip"
+minor="http://"
+gui="http://"
+kodi="21.0"
+theme="http://"
+icon="https://imgur.com/f7sMbYP.jpg"
+fanart="https://imgur.com/f7sMbYP.jpg"
+preview="http://"
+adult="no"
+info="http://"
+description="HORROR THEMED BUILD."
+
+
 
 name="[COLOR white][B].........DAREALIST ADULT KODI 21 OMEGA BUILDS.........[/COLOR][/B]"
 version="21.0"
