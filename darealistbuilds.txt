@@ -1,4 +1,4 @@
-name="[COLOR white][B].........DAREALIST Builds.........[/COLOR][/B]"
+name="[COLOR white][B].........DAREALIST KODI 20 Builds.........[/COLOR][/B]"
 version="20.0"
 url="http://"
 minor="http://"
@@ -771,6 +771,21 @@ preview="http://"
 adult="no"
 info="http://"
 description="HORROR THEMED BUILD WITH ADULT CONTENT ."
+
+name="GALAXY ADULT BUILD"
+version="1.0"
+url="https://archive.org/download/galaxyxxx/galaxy%2Bxxx.zip"
+minor="http://"
+gui="http://"
+kodi="21.0"
+theme="http://"
+icon="https://imgur.com/a/4TINj3l.jpg"
+fanart="https://imgur.com/a/4TINj3l.jpg"
+preview="http://"
+adult="no"
+info="http://"
+description="SPACE THEMED BUILD WITH ADULT CONTENT ."
+
 
 
 
