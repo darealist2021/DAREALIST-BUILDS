@@ -789,7 +789,7 @@ description="DAREALIST TV WITH LOTS OF LIVE TV AND ADULT CONTENT."
 
 name="BMF ADULT"
 version="1.0"
-url="https://archive.org/download/bmf-xxx/BMF%20XXX.zip"
+url="https://archive.org/download/bmf-xxx_202404/bmf%2Bxxx.zip"
 minor="http://"
 gui="http://"
 kodi="21.0"
