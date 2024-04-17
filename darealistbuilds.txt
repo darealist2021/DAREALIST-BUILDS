@@ -743,21 +743,6 @@ adult="no"
 info="http://"
 description="PITTSBURGH STEELERS BUILD."
 
-name="BMF"
-version="1.1"
-url="https://archive.org/download/bmf-season/BMF.zip"
-minor="http://"
-gui="http://"
-kodi="21.0"
-theme="http://"
-icon="https://imgur.com/u1P2BdW.jpg"
-fanart="https://imgur.com/u1P2BdW.jpg"
-preview="http://"
-adult="no"
-info="http://"
-description="BMF TV SHOW BUILD."
-
-
 
 name="[COLOR white][B].........DAREALIST ADULT KODI 21 OMEGA BUILDS.........[/COLOR][/B]"
 version="21.0"
