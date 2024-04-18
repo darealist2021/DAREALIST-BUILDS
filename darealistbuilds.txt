@@ -759,7 +759,7 @@ description="BMF TV SHOW BUILD HAS SOME OF EVERYTHING."
 
 name="BRUCE LEE OMEGA v1 "
 version="1.0"
-url="https://archive.org/download/bmf-no-xxx/BMF%20NO%20ADULT.zip"
+url="https://archive.org/download/bruce-lee_202404/BRUCE%20LEE%20OMEGA%20v1.zip"
 minor="http://"
 gui="http://"
 kodi="21.0"
