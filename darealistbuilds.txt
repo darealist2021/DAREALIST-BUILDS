@@ -673,7 +673,7 @@ adult="no"
 info="http://"
 description="PAW PATROL THEMED KIDS BUILD."
 
-name="KIDS CORNER"
+name="KIDS CORNER OMEGA"
 version="1.0"
 url="https://archive.org/download/kids-corner/KIDS%20CORNER.zip"
 minor="http://"
