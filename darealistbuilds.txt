@@ -855,6 +855,21 @@ adult="no"
 info="http://"
 description="STRANGER THINGS TV SHOW BUILD."
 
+name="HACKER"
+version="1.0"
+url="https://archive.org/download/hacker_202405/hacker.zip"
+minor="http://"
+gui="http://"
+kodi="21.0"
+theme="http://"
+icon="https://imgur.com/HKT9E4x.jpg"
+fanart="https://imgur.com/HKT9E4x.jpg"
+preview="http://"
+adult="no"
+info="http://"
+description="WE ARE THE INTERNET."
+
+
 
 name="[COLOR white][B].........DAREALIST ADULT KODI 21 OMEGA BUILDS.........[/COLOR][/B]"
 version="21.0"
