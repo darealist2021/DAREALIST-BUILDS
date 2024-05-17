@@ -883,6 +883,20 @@ adult="no"
 info="http://"
 description="WE ARE THE INTERNET."
 
+name="MILES MORALES"
+version="1.0"
+url="https://archive.org/download/milesmorales/miles%2Bmorales.zip"
+minor="http://"
+gui="http://"
+kodi="21.0"
+theme="http://"
+icon="https://imgur.com/G09x2fh.jpg"
+fanart="https://imgur.com/G09x2fh.jpg"
+preview="http://"
+adult="no"
+info="http://"
+description="MILES MORALES BUILD FOR ALL DEVICES INCLUDING TOUCH SCREENS."
+
 
 
 name="[COLOR white][B].........DAREALIST ADULT KODI 21 OMEGA BUILDS.........[/COLOR][/B]"
@@ -983,6 +997,21 @@ preview="http://"
 adult="no"
 info="http://"
 description="SPACE THEMED BUILD WITH ADULT CONTENT ."
+
+name="MILES MORALES ADULT"
+version="1.0"
+url="https://archive.org/download/milestouchxxx/miles%2Btouch%2Bxxx.zip"
+minor="http://"
+gui="http://"
+kodi="21.0"
+theme="http://"
+icon="https://imgur.com/G09x2fh.jpg"
+fanart="https://imgur.com/G09x2fh.jpg"
+preview="http://"
+adult="no"
+info="http://"
+description="MILES MORALES BUILD FOR ALL DEVICES INCLUDING TOUCH SCREENS."
+
 
 
 
