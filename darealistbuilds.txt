@@ -897,6 +897,21 @@ adult="no"
 info="http://"
 description="MILES MORALES BUILD FOR ALL DEVICES INCLUDING TOUCH SCREENS."
 
+name="FAMILY GUY"
+version="1.0"
+url="https://archive.org/download/familyguy_202405/family%2Bguy.zip"
+minor="http://"
+gui="http://"
+kodi="21.0"
+theme="http://"
+icon="https://imgur.com/O2T22CC.jpg"
+fanart="https://imgur.com/O2T22CC.jpg"
+preview="http://"
+adult="no"
+info="http://"
+description="FAMILY GUY TV SHOW."
+
+
 
 
 name="[COLOR white][B].........DAREALIST ADULT KODI 21 OMEGA BUILDS.........[/COLOR][/B]"
@@ -1012,7 +1027,7 @@ adult="no"
 info="http://"
 description="MILES MORALES BUILD FOR ALL DEVICES INCLUDING TOUCH SCREENS."
 
-name="FAMILY GUY"
+name="FAMILY GUY ADULT"
 version="1.0"
 url="https://archive.org/download/family-guy-xxx/family%20guy%20xxx.zip"
 minor="http://"
