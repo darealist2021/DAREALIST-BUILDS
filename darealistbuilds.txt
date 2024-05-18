@@ -1012,6 +1012,21 @@ adult="no"
 info="http://"
 description="MILES MORALES BUILD FOR ALL DEVICES INCLUDING TOUCH SCREENS."
 
+name="FAMILY GUY"
+version="1.0"
+url="https://archive.org/download/family-guy-xxx/family%20guy%20xxx.zip"
+minor="http://"
+gui="http://"
+kodi="21.0"
+theme="http://"
+icon="https://imgur.com/O2T22CC.jpg"
+fanart="https://imgur.com/O2T22CC.jpg"
+preview="http://"
+adult="no"
+info="http://"
+description="FAMILY GUY TV SHOW."
+
+
 
 
 
