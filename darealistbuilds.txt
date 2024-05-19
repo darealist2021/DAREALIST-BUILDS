@@ -911,6 +911,21 @@ adult="no"
 info="http://"
 description="FAMILY GUY TV SHOW."
 
+name="GREEN GOBLIN "
+version="1.0"
+url="https://archive.org/download/green-goblin-no-adult-silvo/green%20goblin%20no%20adult%20silvo.zip"
+minor="http://"
+gui="http://"
+kodi="21.0"
+theme="http://"
+icon="https://imgur.com/2sUS1Ic.jpg"
+fanart="https://imgur.com/2sUS1Ic.jpg"
+preview="http://"
+adult="no"
+info="http://"
+description="GREEN GOBLIN THEMED BUILD WITH AEON NOX SILVO SKIN."
+
+
 
 
 
