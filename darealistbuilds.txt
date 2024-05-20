@@ -1031,7 +1031,7 @@ description="HORROR THEMED BUILD WITH ADULT CONTENT ."
 
 name="GOBLINS TOUCH XXX"
 version="1.0"
-url="https://archive.org/download/green-goblin-touch-build-xxx/GREEN%20GOBLIN%20TOUCH%20BUILD%20XXX.zip"
+url="https://archive.org/download/goblintouchxxx/goblin%2Btouch%2Bxxx.zip"
 minor="http://"
 gui="http://"
 kodi="21.0"
