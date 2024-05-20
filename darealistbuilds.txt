@@ -871,7 +871,7 @@ description="STRANGER THINGS TV SHOW BUILD."
 
 name="GOBLINS TOUCH"
 version="1.0"
-url="https://archive.org/download/goblin-touch-build/GOBLIN%20TOUCH%20BUILD.zip"
+url="https://archive.org/download/goblintouchnoxxx/goblin%2Btouch%2Bno%2Bxxx.zip"
 minor="http://"
 gui="http://"
 kodi="21.0"
