@@ -928,7 +928,7 @@ description="FAMILY GUY TV SHOW."
 
 name="GREEN GOBLIN SILVO "
 version="1.0"
-url="https://archive.org/download/goblin-touch-build/GOBLIN%20TOUCH%20BUILD.zip"
+url="https://archive.org/download/green-goblin-no-adult-silvo/green%20goblin%20no%20adult%20silvo.zip"
 minor="http://"
 gui="http://"
 kodi="21.0"
