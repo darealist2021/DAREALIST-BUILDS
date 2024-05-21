@@ -926,7 +926,7 @@ adult="no"
 info="http://"
 description="FAMILY GUY TV SHOW."
 
-name="GREEN GOBLIN "
+name="GREEN GOBLIN SILVO "
 version="1.0"
 url="https://archive.org/download/goblin-touch-build/GOBLIN%20TOUCH%20BUILD.zip"
 minor="http://"
