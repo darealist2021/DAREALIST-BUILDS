@@ -703,7 +703,7 @@ description="KIDS BUILD WITH LOTS OF WIDGETS FOR EASY USE."
 
 name="GIFFY NO ADULT BUILD"
 version="1.1"
-url="https://archive.org/download/giffy_202406/GIFFY%2BNO%2BXXX.zip"
+url="https://archive.org/download/giffy-no-adult/GIFFY%2BNO%2BADULT.zip"
 minor="http://"
 gui="http://"
 kodi="21.0"
