@@ -1060,7 +1060,7 @@ description="GREEN GOBLINS TOUCH BUILD."
 
 name="GALAXY ADULT BUILD"
 version="1.1"
-url="https://archive.org/download/galaxyxxx_20240430/xxxgalaxy.zip"
+url="https://archive.org/download/giffyxxx_202406/giffyxxx.zip"
 minor="http://"
 gui="http://"
 kodi="21.0"
