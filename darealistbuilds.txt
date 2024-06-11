@@ -989,7 +989,7 @@ description="LOTS OF ADULT CONTENT."
 
 name="DAREALIST TV XXX OMEGA"
 version="1.1"
-url="https://archive.org/download/darealisttvxxx/darealisttv%2Bxxx.zip"
+url="https://archive.org/download/darealist-tv-adult/DAREALIST%20TV%20ADULT.zip"
 minor="http://"
 gui="http://"
 kodi="21.0"
