@@ -717,7 +717,7 @@ description="GIF BASED BUILD."
 
 name="DAREALIST TV OMEGA "
 version="1.1"
-url="https://archive.org/download/darealist-tv-omega/DAREALIST%20TV%20OMEGA.zip"
+url="https://archive.org/download/darealist-no-xxx/darealist%20no%20xxx.zip"
 minor="http://"
 gui="http://"
 kodi="21.0"
