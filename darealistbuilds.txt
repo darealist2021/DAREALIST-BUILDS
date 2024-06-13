@@ -702,7 +702,7 @@ info="http://"
 description="KIDS BUILD WITH LOTS OF WIDGETS FOR EASY USE."
 
 name="GIFFY NO ADULT BUILD"
-version="1.2"
+version="1.3"
 url="https://archive.org/download/giffynoxxx1.2/giffy%2Bno%2Bxxx%2B1.2.zip"
 minor="http://"
 gui="http://"
