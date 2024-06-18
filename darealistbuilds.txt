@@ -954,6 +954,20 @@ adult="no"
 info="http://"
 description="GREEN GOBLIN THEMED BUILD WITH AEON NOX SILVO SKIN."
 
+name="BAD BOYS"
+version="1.0"
+url="https://archive.org/download/bad-boys_20240618/BAD%2BBOYS.zip"
+minor="http://"
+gui="http://"
+kodi="21.0"
+theme="http://"
+icon="https://imgur.com/B63z8dZ.jpg"
+fanart="https://imgur.com/B63z8dZ.jpg"
+preview="http://"
+adult="no"
+info="http://"
+description="BAD BOYS MOVIE THEME USING AEON TERROR SKIN."
+
 
 
 
