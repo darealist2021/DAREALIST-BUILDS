@@ -1031,7 +1031,7 @@ description="BMF TV SHOW BUILD WITH LIVE TV SPORTS AND ADULT CONTENT."
 
 name="GIFFY ADULT"
 version="1.3"
-url="https://archive.org/download/giffyxxx_20240620/giffyxxx.zip"
+url="https://archive.org/download/giffyxxx_20240620_1852/giffyxxx.zip"
 minor="http://"
 gui="http://"
 kodi="21.0"
