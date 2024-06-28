@@ -1087,8 +1087,8 @@ description="GREEN GOBLINS TOUCH BUILD."
 
 
 name="GALAXY ADULT BUILD"
-version="1.2"
-url="https://archive.org/download/galaxy-xxx/GALAXY%20XXX.zip"
+version="1.4"
+url="https://archive.org/download/galaxy-xxx-1.4/GALAXY%20XXX%201.4.zip"
 minor="http://"
 gui="http://"
 kodi="21.0"
