@@ -1016,8 +1016,8 @@ description="LOTS OF ADULT CONTENT."
 
 
 name="DAREALIST TV XXX OMEGA"
-version="1.1"
-url="https://archive.org/download/darealist-tv-adult/DAREALIST%20TV%20ADULT.zip"
+version="1.2"
+url="https://archive.org/download/darealist-xxx-1.2/DAREALIST%20XXX%201.2.zip"
 minor="http://"
 gui="http://"
 kodi="21.0"
