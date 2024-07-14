@@ -982,6 +982,19 @@ adult="no"
 info="http://"
 description="BAD BOYS MOVIE THEME USING AEON TERROR SKIN."
 
+name="SPORTS BUILD"
+version="1.0"
+url="https://archive.org/download/atl_20240714/ATL.zip"
+minor="http://"
+gui="http://"
+kodi="21.0"
+theme="http://"
+icon="https://imgur.com/iM441ab.jpg"
+fanart="https://imgur.com/iM441ab.jpg"
+preview="http://"
+adult="no"
+info="http://"
+description="SPORTS BUILD WITH SWITCHABLE THEMES."
 
 
 
