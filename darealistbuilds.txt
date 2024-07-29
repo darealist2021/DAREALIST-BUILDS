@@ -729,6 +729,21 @@ adult="no"
 info="http://"
 description="DAREALIST TV WITH LOTS OF LIVE TV MOVIES AND SPORTS."
 
+name="DAREALIST TV V2  "
+version="1.0"
+url="https://archive.org/download/darealist-tv-2/DAREALIST%20TV%202.zip"
+minor="http://"
+gui="http://"
+kodi="21.0"
+theme="http://"
+icon="https://imgur.com/tNKvajK.jpg"
+fanart="https://imgur.com/tNKvajK.jpg"
+preview="http://"
+adult="no"
+info="http://"
+description="DAREALIST TV VERSION 2."
+
+
 name="MASTERS OF FEAR NO ADULT CONTENT"
 version="1.1"
 url="https://archive.org/download/masters-of-fear-1.1-no-xxx/masters%20of%20fear%201.1%20no%20xxx.zip"
@@ -999,6 +1014,8 @@ description="SPORTS BUILD WITH SWITCHABLE THEMES."
 
 
 
+
+
 name="[COLOR white][B].........DAREALIST ADULT KODI 21 OMEGA BUILDS.........[/COLOR][/B]"
 version="21.0"
 url="http://"
@@ -1154,6 +1171,36 @@ preview="http://"
 adult="no"
 info="http://"
 description="GREEN GOBLIN THEMED ADULT BUILD WITH AEON NOX SILVO SKIN."
+
+name="[COLOR white][B].........BRADLEYS KODI 21 Builds.........[/COLOR][/B]"
+version="21.0"
+url="http://"
+minor="http://"
+gui="http://"
+kodi="21.0"
+theme="http://"
+icon="https://"
+fanart="http://"
+preview="http://"
+adult="no"
+info="http://"
+description="BRADLEYS Builds. Please select from the list below."
+
+
+name="BRADS TOUCH  "
+version="1.0"
+url="https://archive.org/download/brad-touch/BRAD%20TOUCH.zip"
+minor="http://"
+gui="http://"
+kodi="21.0"
+theme="http://"
+icon="https://imgur.com/Uqklm6X.jpg"
+fanart="https://imgur.com/Uqklm6X.jpg"
+preview="http://"
+adult="no"
+info="http://"
+description="BRADS TOUCH BUILD."
+
 
 
 
