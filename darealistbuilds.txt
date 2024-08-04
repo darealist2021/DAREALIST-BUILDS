@@ -659,6 +659,20 @@ adult="no"
 info="http://"
 description="BUILD WITH LOTS OF LIVE TV."
 
+name="SILVO ULTRA"
+version="1.0"
+url="https://archive.org/download/silvo-ultra_202408/SILVO%20ULTRA.zip"
+minor="http://"
+gui="http://"
+kodi="21.0"
+theme="http://"
+icon="https://imgur.com/ADZXlOU.jpg"
+fanart="https://imgur.com/ADZXlOU.jpg"
+preview="http://"
+adult="no"
+info="http://"
+description="BUILD WITH LOTS OF LIVE TV."
+
 
 
 name="GALAXY"
