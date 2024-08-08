@@ -946,8 +946,8 @@ description="GREEN GOBLINS TOUCH BUILD."
 
 
 name="HACKER"
-version="1.0"
-url="https://archive.org/download/hacker_202405/hacker.zip"
+version="1.1"
+url="https://archive.org/download/hacker_20240806/HACKER%201.1.zip"
 minor="http://"
 gui="http://"
 kodi="21.0"
