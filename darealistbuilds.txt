@@ -15,7 +15,7 @@ description="DAREALIST Builds. Please select from the list below."
 
 name="THE GOOD THE BAD AND THE UGLY"
 version="1.1"
-url="https://archive.org/download/the-good-the-bad-and-the-ugly_202408/THE%20GOOD%20THE%20BAD%20AND%20THE%20UGLY.zip"
+url="https://archive.org/download/the-good-the-bad-the-ugly_202408/THE%20GOOD%20THE%20BAD%20THE%20UGLY.zip"
 minor="http://"
 gui="http://"
 kodi="21.0"
