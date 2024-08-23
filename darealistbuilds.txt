@@ -531,8 +531,8 @@ description="GREEN GOBLINS TOUCH BUILD FOR TOUCHSCREEN DEVICES ALSO."
 
 
 name="GALAXY ADULT BUILD"
-version="1.4"
-url="https://archive.org/download/galaxy-xxx-1.4/GALAXY%20XXX%201.4.zip"
+version="1.5"
+url="https://archive.org/download/galaxy-xxx_202408/galaxy%201.4%20xxx.zip"
 minor="http://"
 gui="http://"
 kodi="21.0"
