@@ -630,6 +630,21 @@ adult="no"
 info="http://"
 description="BRADS TOUCH BUILD."
 
+name="BRAD NOX  "
+version="1.2"
+url="https://archive.org/download/brad-nox-1.2/BRAD%20NOX%201.2.ZIP"
+minor="http://"
+gui="http://"
+kodi="21.0"
+theme="http://"
+icon="https://imgur.com/DFZvmkV.jpg"
+fanart="https://imgur.com/DFZvmkV.jpg"
+preview="http://"
+adult="no"
+info="http://"
+description="BRAD NOX."
+
+
 
 
 
