@@ -600,7 +600,7 @@ adult="no"
 info="http://"
 description="BUILD WITH LOTS OF LIVE TV."
 
-name="ULTRA LIVE TV XXX"
+name="ULTRA LIVE TV XXX1"
 version="1.4"
 url="https://mega.nz/file/jnoCQTxC#ECgJyPEoX-H6jQoJdJY07nOycnRi0lZmS4hR9lmQNtI.zip"
 minor="http://"
