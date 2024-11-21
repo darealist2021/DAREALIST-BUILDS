@@ -145,7 +145,7 @@ description="KIDS BUILD WITH LOTS OF WIDGETS FOR EASY USE."
 
 name="GIFFY NO ADULT BUILD"
 version="1.5"
-url="https://archive.org/download/giffy-no-xxx_202411/GIFFY%2BNO%2BXXX%2B1.5.zip"
+url="https://rb.gy/cesuid"
 minor="http://"
 gui="http://"
 kodi="21.0"
