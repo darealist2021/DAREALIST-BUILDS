@@ -519,7 +519,7 @@ description="BMF TV SHOW BUILD WITH LIVE TV SPORTS AND ADULT CONTENT."
 
 name="GIFFY ADULT"
 version="1.5"
-url="https://archive.org/download/giffy-iXXX/GIFFY%2BXXX%2B1.5.zip"
+url="https://rb.gy/fiqv72"
 minor="http://"
 gui="http://"
 kodi="21.0"
