@@ -218,7 +218,7 @@ description="PITTSBURGH STEELERS BUILD."
 
 name="BMF "
 version="1.3"
-url="https://archive.org/download/bmf-no-xxx_202409/BMF%20NO%20XXX%201.3.zip"
+url="https://rb.gy/ojzaxb"
 minor="http://"
 gui="http://"
 kodi="21.0"
