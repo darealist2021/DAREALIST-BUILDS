@@ -15,7 +15,7 @@ description="DAREALIST Builds. Please select from the list below."
 
 name="BATMAN 1"
 version="1.3"
-url="https://rb.gy/1s2ydg
+url="https://rb.gy/5jk7ul"
 minor="http://"
 gui="http://"
 kodi="21.0"
