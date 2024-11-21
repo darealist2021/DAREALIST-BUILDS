@@ -246,7 +246,7 @@ description="BRUCE LEE BUILD WITH FIGHTING GIFS."
 
 name="SPORTACULAR "
 version="1.6"
-url="https://rb.gy/wfuard"
+url="https://rb.gy/emyfdl"
 minor="http://"
 gui="http://"
 kodi="21.0"
