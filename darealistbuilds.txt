@@ -415,7 +415,7 @@ description="GREEN GOBLIN THEMED BUILD WITH AEON NOX SILVO SKIN."
 
 name="BAD BOYS"
 version="1.1"
-url="https://archive.org/download/bad-boys-1.1/bad%20boys%201.1.zip"
+url="https://rb.gy/bd34g0"
 minor="http://"
 gui="http://"
 kodi="21.0"
