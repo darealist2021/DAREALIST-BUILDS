@@ -274,7 +274,7 @@ description="NFL THEMED BUILD."
 
 name="THE GOAT "
 version="1.1"
-url="https://archive.org/download/goat_20240623/GOAT.zip"
+url="https://mega.nz/file/H7RCAC4Q#VJTz-59K4_o1XLoNfmcOlL77VIfhPQSFz0jVP_Iqfjo"
 minor="http://"
 gui="http://"
 kodi="21.0"
