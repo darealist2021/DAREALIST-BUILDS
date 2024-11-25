@@ -175,8 +175,8 @@ description="DAREALIST TV WITH LOTS OF LIVE TV MOVIES AND SPORTS."
 
 
 name="MASTERS OF FEAR NO ADULT CONTENT"
-version="1.2"
-url="https://archive.org/download/mastersoffearnoxxx/masters%2Bof%2Bfear%2Bno%2Bxxx.zip"
+version="1.3"
+url="https://rebrand.ly/gmh175o"
 minor="http://"
 gui="http://"
 kodi="21.0"
