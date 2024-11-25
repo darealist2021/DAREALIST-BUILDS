@@ -204,7 +204,7 @@ description="WIDGET ZONE OMEGA BUILD."
 
 name="STEELERS OMEGA"
 version="1.2"
-url="https://tinyurl.com/2s3d88wu"
+url="https://archive.org/download/steelers_202407/STEELERS%201.2.zip"
 minor="http://"
 gui="http://"
 kodi="21.0"
