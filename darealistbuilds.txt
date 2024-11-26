@@ -491,7 +491,7 @@ description="DAREALIST TV WITH LOTS OF LIVE TV AND ADULT CONTENT."
 
 name="DAREALIST TV V2  "
 version="1.0"
-url="https://archive.org/download/darealist-tv-2/DAREALIST%20TV%202.zip"
+url="https://rebrand.ly/51cct6s"
 minor="http://"
 gui="http://"
 kodi="21.0"
