@@ -645,7 +645,7 @@ info="http://"
 description="BRADLEYS Builds. Please select from the list below."
 
 
-name="BRAD NOX  "
+name="BRAD NOX AUSTRONAUT  "
 version="1.0"
 url="https://archive.org/download/brad-nox-astronaut-with-xxx/BRAD%20NOX%20ASTRONAUT%20WITH%20XXX.zip"
 minor="http://"
