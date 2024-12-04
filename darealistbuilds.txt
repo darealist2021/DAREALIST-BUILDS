@@ -330,7 +330,7 @@ description="VIDEO GAME THEME."
 
 name="STRANGER THINGS OMEGA"
 version="1.1"
-url="https://archive.org/download/stranger-things_202407/STRANGER%20THINGS%201.1.zip"
+url="https://www.dropbox.com/scl/fi/29zj3abbqgfkuj7ffu1pb/STRANGER-THINGS.zip?rlkey=upohv1a7w73fgs27agah6baww&st=neslj0ve&dl=1"
 minor="http://"
 gui="http://"
 kodi="21.0"
