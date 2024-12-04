@@ -344,7 +344,7 @@ description="STRANGER THINGS TV SHOW BUILD."
 
 name="GOBLINS TOUCH"
 version="1.2"
-url="https://archive.org/download/green-goblin-touch-no-xxx/Green%20Goblin%20Touch%20no%20xxx%201.2.zip"
+url="https://www.dropbox.com/scl/fi/k4s0jncyvmncv92xxctsw/Green-Goblin-Touch-no-xxx-1.2.zip?rlkey=mpykdz24rotsddtr5n4rai6ia&st=lvf02duh&dl=0"
 minor="http://"
 gui="http://"
 kodi="21.0"
