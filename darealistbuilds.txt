@@ -57,7 +57,7 @@ description="BATMAN BUILD ON BLACK GLASS SKIN."
 
 name="THE GOOD THE BAD AND THE UGLY"
 version="1.2"
-url="https://www.dropbox.com/scl/fi/emrldb26znzkxcga2u01x/THE-GOOD-THE-BAD-AND-THE-UGLY.zip?rlkey=wfksui3kok45u7z8eccpehm3c&st=37ahdx5s&dl=1"
+url="https://rb.gy/pzi7ut
 minor="http://"
 gui="http://"
 kodi="21.0"
