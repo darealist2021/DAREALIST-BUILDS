@@ -288,7 +288,7 @@ description="NFL THEMED BUILD."
 
 name="THE GOAT "
 version="1.2"
-url="https://archive.org/download/goat_20241123/GOAT%2B1.2.zip"
+url="https://www.dropbox.com/scl/fi/aa4eblmgecy7kugxkreb2/GOAT-1.2.zip?rlkey=husoulnhhvr22tadclr0e7zcp&st=zrs28tdy&dl=1"
 minor="http://"
 gui="http://"
 kodi="21.0"
