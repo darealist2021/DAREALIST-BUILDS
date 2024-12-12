@@ -57,7 +57,7 @@ description="BATMAN BUILD ON BLACK GLASS SKIN."
 
 name="THE GOOD THE BAD AND THE UGLY"
 version="1.2"
-url="https://rb.gy/pzi7ut
+url="https://rb.gy/pzi7ut"
 minor="http://"
 gui="http://"
 kodi="21.0"
