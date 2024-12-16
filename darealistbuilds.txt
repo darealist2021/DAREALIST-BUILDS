@@ -43,7 +43,7 @@ description="BATMAN BUILD ON BLACK GLASS NOVA SKIN."
 
 name="BATMAN 2"
 version="1.3"
-url="https://rb.gy/hixqyh"
+url="https://rb.gy/9sleh3"
 minor="http://"
 gui="http://"
 kodi="21.0"
