@@ -1,5 +1,14 @@
 <builds>
 
+
+ <build>
+	<name>GRAFFITI</name>
+	<version>.0</version>
+	<url>https://rb.gy/hs5dfy</url>
+	<icon>https://imgur.com/rKafkcB</icon>
+	<fanart>https://imgur.com/rKafkcB</fanart>
+	<description>GRAFFITI BUILD</description>
+  </build>	
   <build>
 	<name>GRINCH</name>
 	<version>1.0</version>
