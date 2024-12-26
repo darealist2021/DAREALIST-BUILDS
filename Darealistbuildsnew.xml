@@ -265,15 +265,7 @@
 	<fanart>https://imgur.com/GwqvpAx.jpg</fanart>
 	<description>LOTS OF ADULT CONTENT.</description>
   </build>
-  <build>
-	<name>DAREALIST TV XXX OMEGA</name>
-	<version>1.2</version>
-	<url>https://archive.org/download/darealist-xxx-1.2/DAREALIST%20XXX%201.2.zip</url>
-	<icon>https://imgur.com/QOnDmMX.jpg</icon>
-	<fanart>https://imgur.com/QOnDmMX.jpg</fanart>
-	<description>DAREALIST TV WITH LOTS OF LIVE TV AND ADULT CONTENT.</description>
-  </build>
-  <build>
+   <build>
 	<name>DAREALIST TV V2</name>
 	<version>1.0</version>
 	<url>https://rebrand.ly/51cct6s</url>
