@@ -145,15 +145,7 @@
 	<fanart>https://rb.gy/n5xqks</fanart>
 	<description>NOTHING BUT SPORTS.</description>
   </build>
-  <build>
-	<name>THE NFL</name>
-	<version>1.2</version>
-	<url>https://rebrand.ly/qhiqtvi</url>
-	<icon>https://imgur.com/WrKW1Rf.jpg</icon>
-	<fanart>https://imgur.com/WrKW1Rf.jpg</fanart>
-	<description>NFL THEMED BUILD.</description>
-  </build>
-  <build>
+   <build>
 	<name>THE GOAT</name>
 	<version>1.2</version>
 	<url>https://rb.gy/ilh08l</url>
