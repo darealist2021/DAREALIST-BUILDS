@@ -114,6 +114,14 @@
 	<description>WIDGET ZONE OMEGA BUILD.</description>
   </build>
   <build>
+	<name>NFL</name>
+	<version>2.0</version>
+	<url>https://rebrand.ly/oweix3w</url>
+	<icon>https://rebrand.ly/o9zwv74</icon>
+	<fanart>https://rebrand.ly/o9zwv74</fanart>
+	<description>THE NFL BUILD.</description>
+  </build>
+  <build>
 	<name>BMF</name>
 	<version>1.3</version>
 	<url>https://rb.gy/ojzaxb</url>
