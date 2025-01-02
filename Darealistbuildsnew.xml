@@ -306,14 +306,6 @@
 	<description>GREEN GOBLINS TOUCH BUILD FOR TOUCHSCREEN DEVICES ALSO.</description>
   </build>
   <build>
-        <name>GALAXY ADULT BUILD</name>
-	<version>1.5</version>
-	<url>https://archive.org/download/galaxy-xxx_202408/galaxy%201.4%20xxx.zip</url>
-	<icon>https://imgur.com/vwfnjIZ.jpg</icon>
-	<fanart>https://imgur.com/vwfnjIZ.jpg</fanart>
-	<description>SPACE THEMED BUILD WITH ADULT CONTENT.</description>
-  </build>
-  <build>
         <name>MILES MORALES ADULT</name>
 	<version>1.0</version>
 	<url>https://archive.org/download/milestouchxxx/miles%2Btouch%2Bxxx.zip</url>
