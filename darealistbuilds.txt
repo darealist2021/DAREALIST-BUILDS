@@ -628,7 +628,7 @@ description="BRAD NOX ASTRONAUT"
 
 name="HACKER"
 version="1.1"
-url="https://archive.org/download/hacker_20240806/HACKER%201.1.zip"
+url="https://rb.gy/cg2dh4"
 minor="http://"
 gui="http://"
 kodi="21.0"
