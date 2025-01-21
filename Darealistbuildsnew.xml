@@ -202,14 +202,6 @@
 	<description>GREEN GOBLINS TOUCH BUILD.</description>
   </build>
   <build>
-	<name>HACKER</name>
-	<version>1.1</version>
-	<url>https://archive.org/download/hacker_20240806/HACKER%201.1.zip</url>
-	<icon>https://imgur.com/HKT9E4x.jpg</icon>
-	<fanart>https://imgur.com/HKT9E4x.jpg</fanart>
-	<description>WE ARE THE INTERNET.</description>
-  </build>
-  <build>
 	<name>MILES MORALES</name>
 	<version>1.0</version>
 	<url>https://archive.org/download/milesmorales/miles%2Bmorales.zip</url>
