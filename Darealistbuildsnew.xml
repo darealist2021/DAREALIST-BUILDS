@@ -329,6 +329,14 @@
 	<fanart>https://imgur.com/bMhccm0.jpg</fanart>
 	<description>BUILD WITH LOTS OF LIVE TV.</description>
   </build>
+ <build>
+	<name>BRADS ADULT KODI 21 OMEGA BUILDS</name>
+	<version>0.0</version>
+	<url>http://</url>
+	<icon>http://</icon>
+	<fanart>http://</fanart>
+	<description>BRADS ADULT SECTION</description>
+  </build>
   <build>
         <name>BRADS TEN PIN BOWLING</name>
 	<version>1.1</version>
