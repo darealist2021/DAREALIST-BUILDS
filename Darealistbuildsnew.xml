@@ -314,14 +314,6 @@
 	<description>FAMILY GUY TV SHOW</description>
   </build>
   <build>
-        <name>GREEN GOBLIN</name>
-	<version>1.2</version>
-	<url>https://archive.org/download/green-goblin-xxX/GREEN%20GOBLIN%20XXX%201.2.zip</url>
-	<icon>https://imgur.com/VXtIVsF.jpg</icon>
-	<fanart>https://imgur.com/VXtIVsF.jpg</fanart>
-	<description>GREEN GOBLIN THEMED ADULT BUILD WITH AEON NOX SILVO SKIN.</description>
-  </build>
-  <build>
 	<name>BRADS ADULT KODI 21 OMEGA BUILDS</name>
 	<version>0.0</version>
 	<url>http://</url>
