@@ -583,6 +583,21 @@ adult="no"
 info="http://"
 description="BUILD WITH LOTS OF LIVE TV."
 
+name="BAD BOYS"
+version="1.2"
+url="https://rb.gy/nmhxj3"
+minor="http://"
+gui="http://"
+kodi="21.0"
+theme="http://"
+icon="https://imgur.com/B63z8dZ.jpg"
+fanart="https://imgur.com/B63z8dZ.jpg"
+preview="http://"
+adult="no"
+info="http://"description="BAD BOYS MOVIE THEME WITH XXX USING AEON TERROR SKIN."
+
+
+
 name="[COLOR white][B].........BRADLEYS KODI 21 Builds.........[/COLOR][/B]"
 version="21.0"
 url="http://"
