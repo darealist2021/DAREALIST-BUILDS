@@ -410,20 +410,6 @@ adult="no"
 info="http://"
 description="GREEN GOBLIN THEMED BUILD WITH AEON NOX SILVO SKIN."
 
-name="BAD BOYS"
-version="1.2"
-url="https://rb.gy/ndk01w"
-minor="http://"
-gui="http://"
-kodi="21.0"
-theme="http://"
-icon="https://imgur.com/B63z8dZ.jpg"
-fanart="https://imgur.com/B63z8dZ.jpg"
-preview="http://"
-adult="no"
-info="http://"
-description="BAD BOYS MOVIE THEME USING AEON TERROR SKIN."
-
 name="SPORTS BUILD"
 version="1.1"
 url="https://archive.org/download/sports_20241125_0336/SPORTS.zip"
@@ -437,10 +423,6 @@ preview="http://"
 adult="no"
 info="http://"
 description="SPORTS BUILD WITH SWITCHABLE THEMES."
-
-
-
-
 
 
 name="[COLOR white][B].........DAREALIST ADULT KODI 21 OMEGA BUILDS.........[/COLOR][/B]"
@@ -611,6 +593,22 @@ preview="http://"
 adult="no"
 info="http://"
 description="BRADLEYS Builds. Please select from the list below."
+
+name="BAD BOYS NO XXX"
+version="1.2"
+url="https://rb.gy/ndk01w"
+minor="http://"
+gui="http://"
+kodi="21.0"
+theme="http://"
+icon="https://imgur.com/B63z8dZ.jpg"
+fanart="https://imgur.com/B63z8dZ.jpg"
+preview="http://"
+adult="no"
+info="http://"
+description="BAD BOYS MOVIE THEME USING AEON TERROR SKIN."
+
+
 
 
 name="BRAD NOX AUSTRONAUT  "
