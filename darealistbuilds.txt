@@ -610,7 +610,7 @@ description="BAD BOYS MOVIE THEME USING AEON TERROR SKIN."
 
 name="BAD BOYS XXX"
 version="1.2"
-url="https://rb.gy/ndk01w"
+url="https://rb.gy/nmhxj3"
 minor="http://"
 gui="http://"
 kodi="21.0"
@@ -620,7 +620,7 @@ fanart="https://imgur.com/B63z8dZ.jpg"
 preview="http://"
 adult="no"
 info="http://"
-description="BAD BOYS MOVIE THEME WITH XX USING AEON TERROR SKIN."
+description="BAD BOYS MOVIE THEME WITH XXX USING AEON TERROR SKIN."
 
 
 
