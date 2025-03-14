@@ -312,6 +312,14 @@
 	<icon>http://</icon>
 	<fanart>http://</fanart>
 	<description>BRADS ADULT SECTION</description>
+  </build>
+  <build>
+	<name>HAPPY DAYS</name>
+	<version>1.1</version>
+	<url>https://rb.gy/l4229f</url>
+	<icon>https://imgur.com/EmFlaqd.jpg</icon>
+	<fanart>https://imgur.com/EmFlaqd.jpg</fanart>
+	<description>HAPPY DAYS TV SHOW THEME</description>
   </build>	
   <build>
 	<name>BAD BOYS NO XXX</name>
