@@ -348,7 +348,15 @@
 	<icon>http://</icon>
 	<fanart>http://</fanart>
 	<description>BRADS ADULT SECTION</description>
-  </build>	
+  </build>
+  <build>
+	<name>HAPPY DAYS</name>
+	<version>1.1</version>
+	<url>https://rb.gy/l4229f</url>
+	<icon>https://imgur.com/EmFlaqd.jpg</icon>
+	<fanart>https://imgur.com/EmFlaqd.jpg</fanart>
+	<description>HAPPY DAYS TV SHOW THEME</description>
+  </build>
   <build>
 	<name>BAD BOYS NO XXX</name>
 	<version>1.2</version>
@@ -356,7 +364,6 @@
 	<icon>https://imgur.com/B63z8dZ.jpg</icon>
 	<fanart>https://imgur.com/B63z8dZ.jpg</fanart>
 	<description>BAD BOYS MOVIE THEME USING AEON TERROR SKIN..</description>
-	  
   </build>
   <build>
 	<name>BAD BOYS XXX</name>
