@@ -636,6 +636,20 @@ adult="no"
 info="http://"
 description="BRADLEYS Builds. Please select from the list below."
 
+name="HOGANS HEROES"
+version="1.0"
+url="https://rb.gy/r09k41"
+minor="http://"
+gui="http://"
+kodi="21.0"
+theme="http://"
+icon="https://imgur.com/YRq1YJz.jpg"
+fanart="https://imgur.com/YRq1YJz.jpg"
+preview="http://"
+adult="no"
+info="http://"
+description="HOGANS HEROES TV SHOW THEME."
+
 name="BAD BOYS NO XXX"
 version="1.2"
 url="https://rb.gy/ndk01w"
@@ -663,9 +677,6 @@ preview="http://"
 adult="no"
 info="http://"
 description="BAD BOYS MOVIE THEME WITH XXX USING AEON TERROR SKIN."
-
-
-
 
 name="BRAD NOX AUSTRONAUT  "
 version="1.1"
