@@ -329,12 +329,20 @@
 	<description>FAMILY GUY TV SHOW</description>
   </build>
   <build>
-	<name>BRADS ADULT KODI 21 OMEGA BUILDS</name>
+	<name>BRADS KODI 21 OMEGA BUILDS</name>
 	<version>0.0</version>
 	<url>http://</url>
 	<icon>http://</icon>
 	<fanart>http://</fanart>
-	<description>BRADS ADULT SECTION</description>
+	<description>BRADS BUILDS SECTION</description>
+  </build>
+  <build>
+	<name>HOGANS HEROES</name>
+	<version>1.0</version>
+	<url>https://rb.gy/r09k41</url>
+	<icon>https://imgur.com/YRq1YJz</icon>
+	<fanart>https://imgur.com/YRq1YJz</fanart>
+	<description>HOGANS HEROES TV SHOW THEME</description>
   </build>
   <build>
 	<name>HAPPY DAYS</name>
