@@ -669,7 +669,7 @@ description="BAD BOYS MOVIE THEME WITH XXX USING AEON TERROR SKIN."
 
 name="BRAD NOX AUSTRONAUT  "
 version="1.1"
-url="https://www.dropbox.com/scl/fi/1ide0adtmouc7w8nmhs9f/BRAD-NOX-ASTRONAUT-.1.1.zip?rlkey=bzri640y5ucis4dqonq9usrbc&st=h4p1vmj5&dl=1"
+url="https://rb.gy/wg4wrb"
 minor="http://"
 gui="http://"
 kodi="21.0"
