@@ -377,6 +377,14 @@
 	<description>BRADS BUILDS SECTION</description>
   </build>
   <build>
+	<name>WELCOME TO MELBOURNE</name>
+	<version>1.0</version>
+	<url>https://rb.gy/tp29ku</url>
+	<icon>https://imgur.com/mY14USN.jpg</icon>
+	<fanart>https://imgur.com/mY14USN.jpg</fanart>
+	<description>PLACES IN MELBOURNE</description>
+  </build>	
+  <build>
 	<name>HOGANS HEROES</name>
 	<version>1.0</version>
 	<url>https://rb.gy/r09k41</url>
