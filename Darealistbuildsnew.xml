@@ -161,28 +161,12 @@
 	<description>PITTSBURGH STEELERS BUILD.</description>
   </build>
   <build>
-	<name>BRUCE LEE OMEGA v1</name>
-	<version>1.1</version>
-	<url>https://archive.org/download/bruce-lee_202407/bruce%20lee%201.1.zip</url>
-	<icon>https://imgur.com/i4AMHbD.jpg</icon>
-	<fanart>https://imgur.com/i4AMHbD.jpg</fanart>
-	<description>BRUCE LEE BUILD WITH FIGHTING GIFS.</description>
-  </build>
-  <build>
 	<name>SPORTACULAR</name>
 	<version>1.9</version>
 	<url>https://rb.gy/hqv9r1</url>
 	<icon>https://imgur.com/o7YTbt4.jpg</icon>
 	<fanart>https://imgur.com/o7YTbt4.jpg</fanart>
 	<description>NOTHING BUT SPORTS.</description>
-  </build>
-   <build>
-	<name>THE GOAT</name>
-	<version>1.2</version>
-	<url>https://rb.gy/ilh08l</url>
-	<icon>https://imgur.com/CTCtTB1.jpg</icon>
-	<fanart>https://imgur.com/CTCtTB1.jpg</fanart>
-	<description>MICHAEL JORDAN THEMED BUILD WITH SWITCHABLE SKINS</description>
   </build>
   <build>
 	<name>THE REAPER</name>
@@ -191,14 +175,6 @@
 	<icon>https://imgur.com/iPLyYVM.jpg</icon>
 	<fanart>https://imgur.com/iPLyYVM.jpg</fanart>
 	<description>THE REAPER.</description>
-  </build>
-  <build>
-	<name>FIGHT NIGHT OMEGA</name>
-	<version>1.1</version>
-	<url>https://archive.org/download/fight-night-omega-1.1/fight%20night%20omega1.1.zip</url>
-	<icon>https://imgur.com/F144O6r.jpg</icon>
-	<fanart>https://imgur.com/F144O6r.jpg</fanart>
-	<description>FIGHTING SPORTS THEME WITH GIFS..</description>
   </build>
   <build>
 	<name>NBA</name>
@@ -217,36 +193,12 @@
 	<description>SPORTS BUILD FOR ALL DEVICE INCLUDING TOUCHSCREENS.</description>
   </build>	
   <build>
-	<name>STRANGER THINGS OMEGA</name>
-	<version>1.2</version>
-	<url>https://rb.gy/hauz38</url>
-	<icon>https://imgur.com/RLeM7kp.jpg</icon>
-	<fanart>https://imgur.com/RLeM7kp.jpg</fanart>
-	<description>STRANGER THINGS TV SHOW BUILD.</description>
-  </build>
-  <build>
 	<name>GOBLINS TOUCH</name>
 	<version>1.5</version>
 	<url>https://rb.gy/eohusb</url>
 	<icon>https://imgur.com/A1CQSaO.jpg</icon>
 	<fanart>https://imgur.com/A1CQSaO.jpg</fanart>
 	<description>GREEN GOBLINS TOUCH BUILD.</description>
-  </build>
-  <build>
-	<name>MILES MORALES</name>
-	<version>1.0</version>
-	<url>https://archive.org/download/milesmorales/miles%2Bmorales.zip</url>
-	<icon>https://imgur.com/G09x2fh.jpg</icon>
-	<fanart>https://imgur.com/G09x2fh.jpg</fanart>
-	<description>MILES MORALES BUILD FOR ALL DEVICES INCLUDING TOUCH SCREENS.</description>
-  </build>
-  <build>
-	<name>FAMILY GUY</name>
-	<version>1.1</version>
-	<url>https://rebrand.ly/fraoeuc</url>
-	<icon>https://imgur.com/O2T22CC.jpg</icon>
-	<fanart>https://imgur.com/O2T22CC.jpg</fanart>
-	<description>FAMILY GUY TV SHOW.</description>
   </build>
   <build>
 	<name>GREEN GOBLIN SILVO</name>
@@ -311,22 +263,6 @@
 	<icon>https://imgur.com/A1CQSaO.jpg</icon>
 	<fanart>https://imgur.com/A1CQSaO.jpg</fanart>
 	<description>GREEN GOBLINS TOUCH BUILD FOR TOUCHSCREEN DEVICES ALSO.</description>
-  </build>
-  <build>
-        <name>MILES MORALES ADULT</name>
-	<version>1.0</version>
-	<url>https://archive.org/download/milestouchxxx/miles%2Btouch%2Bxxx.zip</url>
-	<icon>https://imgur.com/mtEAQOi.jpg</icon>
-	<fanart>https://imgur.com/mtEAQOi.jpg</fanart>
-	<description>MILES MORALES BUILD FOR ALL DEVICES INCLUDING TOUCH SCREENS.</description>
-  </build>
-  <build>
-        <name>FAMILY GUY ADULT</name>
-	<version>1.1</version>
-	<url>https://archive.org/download/family-guy-xxx-2/FAMILY%20GUY%20XXX%20%282%29.zip</url>
-	<icon>https://imgur.com/O2T22CC.jpg</icon>
-	<fanart>https://imgur.com/O2T22CC.jpg</fanart>
-	<description>FAMILY GUY TV SHOW</description>
   </build>
   <build>
 	<name>BRADS KODI 21 OMEGA BUILDS</name>
