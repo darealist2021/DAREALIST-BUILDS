@@ -215,8 +215,8 @@ description="GIF BASED BUILD."
 
 
 name="MASTERS OF FEAR NO ADULT CONTENT"
-version="1.5"
-url="https://rebrand.ly/qvgo22o"
+version="1.6"
+url="https://rb.gy/9llc22"
 minor="http://"
 gui="http://"
 kodi="21.0"
