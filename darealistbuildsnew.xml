@@ -1,5 +1,14 @@
 <builds>
-
+     
+ <build>
+	<name>MANCAVE</name>
+	<version>1.0</version>
+	<url>https://rb.gy/yw8dah</url>
+	<icon>https://imgur.com/OcXSWl8.jpg</icon>
+	<fanart>https://imgur.com/OcXSWl8.jpg</fanart>
+	<description>MANCAVE</description>
+	<preview>https://rumble.com/v6rpqs7-mancave-kodi-build.html</preview>
+  </build>
   <build>
 	<name>AUTISM AWARENESS</name>
 	<version>1.1</version>
