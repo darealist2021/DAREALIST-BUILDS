@@ -15,7 +15,7 @@ description="DAREALIST Builds. Please select from the list below."
 
 name="MANCAVE"
 version="1.0"
-url="https://rb.gy/yw8dah"
+url="https://rb.gy/gibbnb"
 minor="http://"
 gui="http://"
 kodi="21.0"
