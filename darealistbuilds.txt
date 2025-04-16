@@ -512,7 +512,7 @@ description="GREEN GOBLINS TOUCH BUILD FOR TOUCHSCREEN DEVICES ALSO."
 
 name="ULTRA LIVE TV XXX"
 version="1.3"
-url="https://archive.org/download/ultra-live-xxx/ultra%20live%20xxx%201.3.zip"
+url="https://rb.gy/xrquxb"
 minor="http://"
 gui="http://"
 kodi="21.0"
