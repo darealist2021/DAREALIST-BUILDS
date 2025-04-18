@@ -640,7 +640,7 @@ description="BRAD NOX ASTRONAUT"
 
 name="BRAD TEN PIN BOWLING "
 version="1.1"
-url="https://rb.gy/9d8m86<"
+url="https://rb.gy/9d8m86"
 minor="http://"
 gui="http://"
 kodi="21.0"
