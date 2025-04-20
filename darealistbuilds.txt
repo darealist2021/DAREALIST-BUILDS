@@ -29,8 +29,8 @@ description="SWITCHABLE MOVIE THEME BUILD."
 
 
 name="FRIDAY"
-version="1.1"
-url="https://rb.gy/vfzwsz"
+version="1.2"
+url="https://rb.gy/qcufan"
 minor="http://"
 gui="http://"
 kodi="21.0"
