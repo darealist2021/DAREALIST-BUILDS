@@ -1,5 +1,13 @@
 <builds>
 
+ <build>
+	<name>SPIDERMAN</name>
+	<version>1.0version>
+	<url>https://rb.gy/uzqgv3</url>
+	<icon>https://imgur.com/JRmt2uk.jpg</icon>
+	<fanart>https://imgur.com/JRmt2uk.jpg</fanart>
+	<description>SPIDERMAN THEME</description>
+  </build>
   <build>
 	<name>LOVE AND BASKETBALL AND LOVE JONES</name>
 	<version>1.1</version>
