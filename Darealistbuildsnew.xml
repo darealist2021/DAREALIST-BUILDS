@@ -23,7 +23,7 @@
 	<icon>https://imgur.com/52kO29w.jpg</icon>
 	<fanart>https://imgur.com/52kO29w.jpg</fanart>
 	<description>FRIDAY MOVIE THEME</description>
-   <build> 
+  </build> 
   <build>
 	<name>MANCAVE</name>
 	<version>1.2</version>
