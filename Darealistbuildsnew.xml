@@ -1,5 +1,13 @@
 <builds>
 
+  <build>
+	<name>MILES MORALES AND SPIDERMAN</name>
+	<version>1.0</version>
+	<url>https://rb.gy/r782t8</url>
+	<icon>https://imgur.com/tUWjeHp.jpg</icon>
+	<fanart>https://imgur.com/tUWjeHp.jpg</fanart>
+	<description>MILES MORALES AND SPIDERMAN SWITCHABLE THEME</description>
+  </build>
  <build>
 	<name>SPIDERMAN</name>
 	<version>1.0</version>
