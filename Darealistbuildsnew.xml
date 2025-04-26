@@ -343,6 +343,14 @@
 	<description>BRADS BUILDS SECTION</description>
   </build>
   <build>
+	<name>BRADS MEDIA</name>
+	<version>1.0</version>
+	<url>https://rb.gy/i9kcjh</url>
+	<icon>https://imgur.com/EcS93qm.jpg</icon>
+	<fanart>https://imgur.com/EcS93qm.jpg</fanart>
+	<description>BRADS MEDIA</description>
+  </build>	
+  <build>
 	<name>WELCOME TO MELBOURNE</name>
 	<version>1.0</version>
 	<url>https://rb.gy/tp29ku</url>
