@@ -1,5 +1,13 @@
 <builds>
- 
+
+ <build>
+	<name>DAREALIST TV V2 NO XXX</name>
+	<version>1.4</version>
+	<url>https://rb.gy/m64n5b</url>
+	<icon>https://imgur.com/tNKvajK.jpg</icon>
+	<fanart>https://imgur.com/tNKvajK.jpg</fanart>
+	<description>DAREALIST TV VERSION 2.</description>
+  </build>
   <build>
 	<name>THUNDERBOLTS</name>
 	<version>1.0</version>
