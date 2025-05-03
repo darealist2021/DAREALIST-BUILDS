@@ -13,6 +13,23 @@ adult="no"
 info="http://"
 description="DAREALIST Builds. Please select from the list below."
 
+name="DAREALIST TV V2 NO XXX "
+version="1.4"
+url="https://rb.gy/m64n5b"
+minor="http://"
+gui="http://"
+kodi="21.0"
+theme="http://"
+icon="https://imgur.com/tNKvajK.jpg"
+fanart="https://imgur.com/tNKvajK.jpg"
+preview="http://"
+adult="no"
+info="http://"
+description="DAREALIST TV VERSION 2."
+
+
+
+
 name="THUNDERBOLTS"
 version="1.0"
 url="https://rb.gy/5aqjwt"
