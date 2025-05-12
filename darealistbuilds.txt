@@ -15,7 +15,7 @@ description="DAREALIST Builds. Please select from the list below."
 
 name="BOOTS ON THE GROUND "
 version="1.0"
-url="https://rb.gy/p270gd"
+url="https://rb.gy/nbszeo"
 minor="http://"
 gui="http://"
 kodi="21.0"
