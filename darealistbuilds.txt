@@ -41,9 +41,6 @@ adult="no"
 info="http://"
 description="DAREALIST TV VERSION 2."
 
-
-
-
 name="THUNDERBOLTS"
 version="1.0"
 url="https://rb.gy/5aqjwt"
@@ -229,8 +226,6 @@ adult="no"
 info="http://"
 description="WESTERN MOVIES AND SHOWS THEME."
 
-
-
 name="ULTRA LIVE TV"
 version="1.4"
 url="https://rb.gy/a86q8g"
@@ -258,8 +253,6 @@ preview="http://"
 adult="no"
 info="http://"
 description="BUILD WITH LOTS OF LIVE TV."
-
-
 
 name="GALAXY"
 version="1.8"
@@ -302,20 +295,6 @@ preview="http://"
 adult="no"
 info="http://"
 description="KIDS CORNER KIDS BUILD."
-
-name="WIDGET ZONE KIDS OMEGA"
-version="1.3"
-url="https://rb.gy/1pd6zr"
-minor="http://"
-gui="http://"
-kodi="21.0"
-theme="http://"
-icon="https://imgur.com/rsFnai3.jpg"
-fanart="https://imgur.com/rsFnai3.jpg"
-preview="http://"
-adult="no"
-info="http://"
-description="KIDS BUILD WITH LOTS OF WIDGETS FOR EASY USE."
 
 name="GIFFY NO ADULT BUILD"
 version="2.0"
@@ -471,20 +450,6 @@ preview="http://"
 adult="no"
 info="http://"
 description="GREEN GOBLIN THEMED BUILD WITH AEON NOX SILVO SKIN."
-
-name="SPORTS BUILD"
-version="1.1"
-url="https://rb.gy/rpeoah"
-minor="http://"
-gui="http://"
-kodi="21.0"
-theme="http://"
-icon="https://imgur.com/iM441ab.jpg"
-fanart="https://imgur.com/iM441ab.jpg"
-preview="http://"
-adult="no"
-info="http://"
-description="SPORTS BUILD WITH SWITCHABLE THEMES."
 
 
 name="[COLOR white][B].........DAREALIST ADULT KODI 21 OMEGA BUILDS.........[/COLOR][/B]"
