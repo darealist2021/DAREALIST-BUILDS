@@ -1,5 +1,13 @@
 <builds>
-
+	
+  <build>
+	<name>THE LAST OF US</name>
+	<version>1.0</version>
+	<url>https://rb.gy/07qnr3</url>
+	<icon>https://imgur.com/ved58BT</icon>
+	<fanart>https://imgur.com/ved58BT</fanart>
+	<description>THE LAST OF US TV SHOW THEME.</description>
+  </build>
   <build>
 	<name>BOOTS ON THE GROUND</name>
 	<version>1.1</version>
