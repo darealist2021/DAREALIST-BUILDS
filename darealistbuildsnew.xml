@@ -234,16 +234,7 @@
 	<description>BMF TV SHOW BUILD HAS SOME OF EVERYTHING.</description>
 	<preview>https://rumble.com/v6pu294-darealist-bmf-build.html</preview>
   </build>
-  <build>
-	<name>STEELERS OMEGA</name>
-	<version>1.6</version>
-	<url>https://rb.gy/y3p2wc</url>
-	<icon>https://imgur.com/xWu3vQ8.jpg</icon>
-	<fanart>https://imgur.com/xWu3vQ8.jpg</fanart>
-	<description>PITTSBURGH STEELERS BUILD.</description>
-	<preview>https://rumble.com/v6pu2k4-darealist-steelers-build.html</preview>
-  </build>
-  <build>
+   <build>
 	<name>SPORTACULAR</name>
 	<version>1.9</version>
 	<url>https://rb.gy/hqv9r1</url>
@@ -251,15 +242,6 @@
 	<fanart>https://imgur.com/o7YTbt4.jpg</fanart>
 	<description>NOTHING BUT SPORTS.</description>
 	<preview>https://rumble.com/v6pu3k2-darealist-sportacular-build.html</preview>
-  </build>
-  <build>
-	<name>NBA</name>
-	<version>1.1</version>
-	<url>https://rb.gy/6kcm3k</url>
-	<icon>https://imgur.com/LkO6RmG.jpg</icon>
-	<fanart>https://imgur.com/LkO6RmG.jpg</fanart>
-	<description>NBA THEME.</description>
-	<preview>https://rumble.com/v6pupre-darealist-nba-build.html</preview>
   </build>
   <build>
 	<name>TOUCH SPORTS</name>
