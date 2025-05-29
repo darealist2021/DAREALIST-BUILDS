@@ -296,6 +296,15 @@
 	<description>EXTRA DIRTY ADULT CONTENT. (NO PREVIEW VIDEOS AVAILABLE FOR ADULT CONTENT).</description>
    <build>
   <build>
+	<name>NFL</name>
+	<version>2.5</version>
+	<url>https://rb.gy/dmqihl</url>
+	<icon>https://imgur.com/WWT7ckp.jpg</icon>
+	<fanart>https://imgur.com/WWT7ckp.jpg</fanart>
+	<description>THE NFL BUILD.</description>
+	<preview>https://rumble.com/v6pu20g-darealist-nfl.html</preview>
+  </build>
+  <build>
 	<name>DAREALIST TV V2</name>
 	<version>1.4</version>
 	<url>https://rb.gy/atpulk</url>
