@@ -1,5 +1,14 @@
 <builds>
-
+	
+  <build>
+	<name>SQUID GAMES</name>
+	<version>1.0</version>
+	<url>https://rb.gy/pb134f</url>
+	<icon>https://imgur.com/LXw69t3.jpg</icon>
+	<fanart>https://imgur.com/LXw69t3.jpg</fanart>
+	<description>SQUID GAMES.</description>
+	<preview>https://rumble.com/v6udhf5-squid-games-kodi-build-32.bit-7259626-64bit-7026450.html</preview>
+  </build>
   <build>
 	<name>SOUTH CAROLINA vs CLEMSON</name>
 	<version>1.0</version>
