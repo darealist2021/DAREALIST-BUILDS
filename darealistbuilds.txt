@@ -25,7 +25,7 @@ fanart="https://imgur.com/LXw69t3.jpg"
 preview="http://"
 adult="no"
 info="http://"
-description=">SQUID GAMES."
+description="SQUID GAMES."
 
 name="SOUTH CAROLINA vs CLEMSON "
 version="1.0"
