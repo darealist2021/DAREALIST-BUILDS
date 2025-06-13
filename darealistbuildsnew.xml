@@ -1,5 +1,14 @@
 <builds>
-
+	
+  <build>
+	<name>CINEMA PLUS</name>
+	<version>1.1</version>
+	<url>https://rb.gy/3on17n</url>
+	<icon>https://imgur.com/g1itI2c.jpg</icon>
+	<fanart>https://imgur.com/g1itI2c.jpg</fanart>
+	<description>CINEMA PLUS.</description>
+	<preview>https://rumble.com/v6tfs65-cinema-plus-kodi-build.html</preview>
+  </build>
   <build>
 	<name>SQUID GAMES</name>
 	<version>1.1</version>
