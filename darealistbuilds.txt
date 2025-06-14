@@ -15,7 +15,7 @@ description="DAREALIST Builds. Please select from the list below."
 
 name="CINEMA PLUS"
 version="1.2"
-url=">https://rb.gy/3on17n"
+url="https://rb.gy/3on17n"
 minor="http://"
 gui="http://"
 kodi="21.0"
