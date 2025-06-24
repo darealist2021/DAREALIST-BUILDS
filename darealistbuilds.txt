@@ -53,7 +53,7 @@ fanart="https://imgur.com/wVVbmZ4.jpg"
 preview="http://"
 adult="no"
 info="http://"
-description=">IN STATE RIVALS SOUTH CAROLINA vs CLEMSON."
+description="IN STATE RIVALS SOUTH CAROLINA vs CLEMSON."
 
 name="THE LAST OF US "
 version="1.1"
