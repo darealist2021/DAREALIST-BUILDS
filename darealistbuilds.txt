@@ -396,7 +396,7 @@ info="http://"
 description="BMF TV SHOW BUILD HAS SOME OF EVERYTHING."
 
 name="SPORTACULAR "
-version="1.9"
+version="2.0"
 url="https://rb.gy/x4yr8g"
 minor="http://"
 gui="http://"
