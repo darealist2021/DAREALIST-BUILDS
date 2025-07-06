@@ -378,6 +378,14 @@
 	<description>BRADS BUILDS SECTION</description>
   </build>
   <build>
+	<name>BRADS 2 IN 1 WRESTLING NFL</name>
+	<version>1.0</version>
+	<url>https://tinyurl.com/wrestlingnfl</url>
+	<icon>https://imgur.com/kNiZvHX.jpg</icon>
+	<fanart>https://imgur.com/kNiZvHX.jpg</fanart>
+	<description>WRESTLING AND NFL THEMED 2 BUILD IN 1</description>
+  </build>
+  <build>
 	<name>BRADS MEDIA</name>
 	<version>1.0</version>
 	<url>https://rb.gy/i9kcjh</url>
