@@ -1,6 +1,15 @@
 <builds>
 	
   <build>
+	<name>COLLEGE FOOTBALL 26</name>
+	<version>1.1</version>
+	<url>https://rebrand.ly/42db44</url>
+	<icon>https://imgur.com/9RkkI1E.jpg</icon>
+	<fanart>https://imgur.com/9RkkI1E.jpg</fanart>
+	<description>COLLEGE FOOTBALL 26.</description>
+	<preview>https://rumble.com/v6wggtg-college-football-26-kodi-build.html</preview>
+  </build>
+  <build>
 	<name>CINEMA PLUS</name>
 	<version>1.2</version>
 	<url>https://rb.gy/3on17n</url>
