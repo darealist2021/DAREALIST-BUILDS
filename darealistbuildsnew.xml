@@ -1,6 +1,15 @@
 <builds>
+
 	
-   <build>
+  <build>
+	<name>AVENGERS TV</name>
+	<version>1.1</version>
+	<url>https://rebrand.ly/f1f424</url>
+	<icon>https://imgur.com/e6x05Ym.jpg</icon>
+	<fanart>https://imgur.com/e6x05Ym.jpg</fanart>
+	<description>MARVEL AVENGERS THEME.</description>
+  </build>		
+  <build>
 	<name>COLLEGE FOOTBALL 26</name>
 	<version>1.1</version>
 	<url>https://rebrand.ly/42db44</url>
