@@ -1,6 +1,14 @@
 <builds>
 
   <build>
+	<name>FANTASTIC FOUR</name>
+	<version>1.0</version>
+	<url>https://tinyurl.com/b99rafn7</url>
+	<icon>https://imgur.com/IFJKz8t</icon>
+	<fanart>https://imgur.com/IFJKz8t</fanart>
+	<description>FANTASTIC FOUR THEME.</description>
+   <build>
+  <build>
 	<name>AVENGERS TV</name>
 	<version>1.2</version>
 	<url>https://rebrand.ly/3ad9db</url>
