@@ -1,5 +1,14 @@
 <builds>
-
+	 
+  <build>
+	<name>AVENGERS TV</name>
+	<version>1.2</version>
+	<url>https://rebrand.ly/3ad9db</url>
+	<icon>https://imgur.com/e6x05Ym.jpg</icon>
+	<fanart>https://imgur.com/e6x05Ym.jpg</fanart>
+	<description>MARVEL AVENGERS THEME.</description>
+	<preview>https://rumble.com/v6wney4-avengers-tv-kodi-build.html</preview> 
+  </build>	
   <build>
 	<name>FANTASTIC FOUR</name>
 	<version>1.0</version>
