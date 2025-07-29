@@ -7,15 +7,7 @@
 	<icon>https://imgur.com/e6x05Ym.jpg</icon>
 	<fanart>https://imgur.com/e6x05Ym.jpg</fanart>
 	<description>MARVEL AVENGERS THEME.</description>
-  </build>
- <build>
-	<name>FANTASTIC FOUR</name>
-	<version>1.0</version>
-	<url>https://tinyurl.com/b99rafn7</url>
-	<icon>https://imgur.com/IFJKz8t.jpg</icon>
-	<fanart>https://imgur.com/IFJKz8t.jpg</fanart>
-	<description>FANTASTIC FOUR THEME.</description>
-   <build>   		
+  </build>    		
   <build>
 	<name>COLLEGE FOOTBALL 26</name>
 	<version>1.1</version>
