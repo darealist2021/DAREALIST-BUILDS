@@ -15,7 +15,7 @@ description="DAREALIST Builds. Please select from the list below."
 
 name="FANTASTIC FOUR"
 version="1.0"
-url="https://tinyurl.com/b99rafn7"
+url="https://rebrand.ly/77af98"
 minor="http://"
 gui="http://"
 kodi="21.0"
