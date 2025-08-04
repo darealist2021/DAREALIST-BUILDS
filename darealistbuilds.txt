@@ -297,7 +297,7 @@ description="BUILD WITH LOTS OF LIVE TV."
 
 name="SILVO ULTRA LIVE"
 version="2.0"
-url="https://rebrand.ly/14f331"
+url="https://rb.gy/xf29yg"
 minor="http://"
 gui="http://"
 kodi="21.0"
