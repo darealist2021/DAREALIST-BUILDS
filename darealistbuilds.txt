@@ -29,7 +29,7 @@ description="FANTASTIC FOUR THEME."
 
 name="AVENGERS TV"
 version="1.2"
-url="https://rebrand.ly/3ad9db"
+url="https://rb.gy/c3cbba"
 minor="http://"
 gui="http://"
 kodi="21.0"
