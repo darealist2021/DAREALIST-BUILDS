@@ -396,7 +396,7 @@ description="BMF TV SHOW BUILD HAS SOME OF EVERYTHING."
 
 name="SPORTACULAR "
 version="2.1"
-url="https://rebrand.ly/e69552"
+url="https://rb.gy/16pgof"
 minor="http://"
 gui="http://"
 kodi="21.0"
