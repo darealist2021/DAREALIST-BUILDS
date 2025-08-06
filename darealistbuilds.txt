@@ -509,7 +509,7 @@ description="LOTS OF ADULT CONTENT."
 
 name="DAREALIST TV V2  "
 version="1.7"
-url="https://rebrand.ly/2cro6y1"
+url="https://rb.gy/34kila"
 minor="http://"
 gui="http://"
 kodi="21.0"
