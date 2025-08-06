@@ -593,7 +593,7 @@ description="BUILD WITH LOTS OF LIVE TV."
 
 name="REACHER XXX"
 version="1.6"
-url="http://bit.ly/41mgAj5"
+url="https://rb.gy/qnv2by"
 minor="http://"
 gui="http://"
 kodi="21.0"
