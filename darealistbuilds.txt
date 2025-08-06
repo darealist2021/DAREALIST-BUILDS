@@ -382,7 +382,7 @@ description="PITTSBURGH STEELERS BUILD."
 
 name="BMF "
 version="1.5"
-url="https://rebrand.ly/e1385b"
+url="https://rb.gy/ejufca"
 minor="http://"
 gui="http://"
 kodi="21.0"
