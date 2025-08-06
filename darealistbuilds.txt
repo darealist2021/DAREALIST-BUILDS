@@ -128,7 +128,7 @@ description="BOOTS ON THE GROUND."
 
 name="DAREALIST TV V2 NO XXX "
 version="1.7"
-url="https://rebrand.ly/67725c"
+url="https://rb.gy/8pvee7"
 minor="http://"
 gui="http://"
 kodi="21.0"
