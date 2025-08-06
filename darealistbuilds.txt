@@ -43,7 +43,7 @@ description="AVENGERS THEME KODI BUILD."
 
 name="COLLEGE FOOTBALL 26"
 version="1.1"
-url="https://rebrand.ly/42db44"
+url="https://rb.gy/0m5acd"
 minor="http://"
 gui="http://"
 kodi="21.0"
