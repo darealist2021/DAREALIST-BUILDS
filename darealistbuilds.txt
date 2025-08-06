@@ -283,7 +283,7 @@ description="WESTERN MOVIES AND SHOWS THEME."
 
 name="ULTRA LIVE TV"
 version="1.7"
-url="https://rebrand.ly/fec3f1"
+url="https://rb.gy/l6ttp5"
 minor="http://"
 gui="http://"
 kodi="21.0"
