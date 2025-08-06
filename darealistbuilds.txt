@@ -452,7 +452,7 @@ description="GREEN GOBLINS TOUCH BUILD."
 
 name="GREEN GOBLIN SILVO "
 version="1.5"
-url="https://rebrand.ly/ff1e84"
+url="https://rb.gy/fbcqx9"
 minor="http://"
 gui="http://"
 kodi="21.0"
