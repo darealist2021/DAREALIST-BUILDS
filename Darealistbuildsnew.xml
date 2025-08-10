@@ -461,7 +461,7 @@
 	<description>BAD BOYS MOVIE THEME WITH XXX</description>
   </build>
   <build>
-        <name>BRADS TEN PIN BOWLING</name>
+    <name>BRADS TEN PIN BOWLING</name>
 	<version>1.1</version>
 	<url>https://rb.gy/9d8m86</url>
 	<icon>https://imgur.com/5tlxFi0.jpg</icon>
@@ -469,13 +469,13 @@
 	<description>BOWLING THEME.</description>
   </build>
   <build>
-        <name>BRAD NOX AUSTRONAUT</name>
+    <name>BRAD NOX AUSTRONAUT</name>
 	<version>1.1</version>
 	<url>https://rb.gy/wg4wrb</url>
 	<icon>https://imgur.com/ElWlI8R.jpg</icon>
 	<fanart>https://imgur.com/ElWlI8R.jpg</fanart>
 	<description>BRAD NOX ASTRONAUT</description>
-        <preview>https://rumble.com/v5x0m5k-astronaut-non-debrid-kodi-build-from-bradleys-builds.html</preview>
+    <preview>https://rumble.com/v5x0m5k-astronaut-non-debrid-kodi-build-from-bradleys-builds.html</preview>
   </build>
   <build>
 	<name>HACKER</name>
@@ -484,5 +484,31 @@
 	<icon>https://imgur.com/HKT9E4x.jpg</icon>
 	<fanart>https://imgur.com/HKT9E4x.jpg</fanart>
 	<description>WE ARE THE INTERNET.</description>
-  </build>
+</build>
+<build>
+	<name>TECH NICK KODI 21 OMEGA BUILDS</name>
+	<version>0.0</version>
+	<url>http://</url>
+	<icon>http://</icon>
+	<fanart>http://</fanart>
+	<description>TECH NICK SECTION</description>	  
+</build>
+<build>
+	<name>iDEBRID</name>
+	<version>1.3</version>
+	<url>https://rb.gy/btjjae</url>
+	<icon>https://imgur.com/EneKDm5.jpg</icon>
+	<fanart>https://imgur.com/EneKDm5.jpg</fanart>
+	<description>iDEBRID.</description>
+</build>
+<build>
+	<name>AFTER DARK</name>
+	<version>2.4</version>
+	<url>https://rb.gy/k8pytt</url>
+	<icon>https://imgur.com/E5Pc5tI.jpg</icon>
+	<fanarthttps://imgur.com/E5Pc5tI.jpg</fanart>
+	<description>AFTER DARK.</description>
+</build>
+	   
 </builds>
+
