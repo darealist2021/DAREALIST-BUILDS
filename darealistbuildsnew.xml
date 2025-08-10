@@ -380,7 +380,7 @@
 	<description>HORROR THEMED BUILD WITH ADULT CONTENT.</description>
   </build>
   <build>
-        <name>GOBLINS TOUCH XXX</name>
+    <name>GOBLINS TOUCH XXX</name>
 	<version>1.5</version>
 	<url>https://rb.gy/pqhv98</url>
 	<icon>https://imgur.com/A1CQSaO.jpg</icon>
@@ -393,8 +393,7 @@
 	<url>http://</url>
 	<icon>http://</icon>
 	<fanart>http://</fanart>
-	<description>BRADS BUILDS SECTION</description>
-	  
+	<description>BRADS BUILDS SECTION</description>	  
   </build>
   <build>
 	<name>BRADS NOX</name>
@@ -486,4 +485,22 @@
 	<fanart>https://imgur.com/HKT9E4x.jpg</fanart>
 	<description>WE ARE THE INTERNET.</description>
   </build>
+	   
+<build>
+	<name>TECH NICK KODI 21 OMEGA BUILDS</name>
+	<version>0.0</version>
+	<url>http://</url>
+	<icon>http://</icon>
+	<fanart>http://</fanart>
+	<description>TECH NICK SECTION</description>	  
+  </build>
+<build>
+	<name>iDEBRID</name>
+	<version>1.3</version>
+	<url>https://rb.gy/btjjae</url>
+	<icon>https://imgur.com/EneKDm5.jpg</icon>
+	<fanart>https://imgur.com/EneKDm5.jpg</fanart>
+	<description>iDEBRID.</description>
+  </build>
+	   
 </builds>
