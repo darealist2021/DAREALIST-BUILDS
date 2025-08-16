@@ -1,5 +1,13 @@
 <builds>
-	
+
+<build>
+	<name>JOKER TV NO XXX</name>
+	<version>1.0</version>
+	<url>https://rb.gy/j8pii8</url>
+	<icon>https://imgur.com/AEW439d.jpg</icon>
+	<fanart>https://imgur.com/AEW439d.jpg</fanart>
+	<description>JOKER TV.</description>
+</build>
 <build>
 	<name>KOBE BEAN BRYANT</name>
 	<version>1.0</version>
@@ -314,7 +322,7 @@
 	<description>GREEN GOBLIN THEMED BUILD WITH AEON NOX SILVO SKIN.</description>
 	<preview>https://rumble.com/v6purwi-darealist-green-goblin-silvo.html</preview>
   </build>
-  <build>
+<build>
 	<name>DAREALIST ADULT KODI 21 OMEGA BUILDS</name>
 	<version>0.0</version>
 	<url>http://</url>
@@ -322,6 +330,14 @@
 	<fanart>http://</fanart>
 	<description>DAREALIST ADULT SECTION</description>
   </build> 
+ <build>
+	<name>JOKER TV XXX</name>
+	<version>1.0</version>
+	<url>https://rb.gy/w4sdly</url>
+	<icon>https://imgur.com/AEW439d.jpg</icon>
+	<fanart>https://imgur.com/AEW439d.jpg</fanart>
+	<description>JOKER TV.</description>
+  </build>
   <build>
 	<name>SEXTREMELY DIRTY</name>
 	<version>1.1</version>
