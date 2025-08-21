@@ -1,5 +1,14 @@
 <builds>
-	
+
+  </build>
+<build>
+	<name>DALLAS COWBOYS</name>
+	<version>1.0</version>
+	<url>https://rb.gy/9njxih</url>
+	<icon>https://imgur.com/0lZe5Ud.jpg</icon>
+	<fanart>https://imgur.com/0lZe5Ud.jpg</fanart>
+	<description>DALLAS COWBOYS.</description>	  
+</build>
 <build>
 	<name>JOKER TV NO XXX</name>
 	<version>1.0</version>
@@ -106,21 +115,6 @@
 	<fanart>https://imgur.com/xWu3vQ8.jpg</fanart>
 	<description>PITTSBURGH STEELERS BUILD.</description>
 	<preview>https://rumble.com/v6xgheo-pittsburgh-steelers-kodi-build.html</preview>
-<build>
-	<name>DALLAS COWBOYS</name>
-	<version>1.0</version>
-	<url>https://rb.gy/9njxih</url>
-	<icon>https://imgur.com/0lZe5Ud.jpg</icon>
-	<fanart>https://imgur.com/0lZe5Ud.jpg</fanart>
-	<description>DALLAS COWBOYS.</description>	  
-</build>
-<build>
-	<name>DALLAS COWBOYS</name>
-	<version>1.0</version>
-	<url>https://rb.gy/9njxih</url>
-	<icon>https://imgur.com/0lZe5Ud.jpg</icon>
-	<fanart>https://imgur.com/0lZe5Ud.jpg</fanart>
-	<description>DALLAS COWBOYS.</description>	  
   </build>
   <build>
 	<name>DAREALIST TV V2 NO XXX</name>
@@ -157,8 +151,8 @@
 	<fanart>https://imgur.com/JRmt2uk.jpg</fanart>
 	<description>SPIDERMAN THEME</description>
 	<preview>https://rumble.com/v6shrdh-spiderman-kodi-build.html</preview>
-  </build>
-   <build>
+  </build>	
+  <build>
 	<name>FRIDAY</name>
 	<version>1.2</version>
 	<url>https://rb.gy/qcufan</url>
@@ -176,7 +170,7 @@
 	<description>MANCAVE</description>
 	<preview>https://rumble.com/v6rpqs7-mancave-kodi-build.html</preview>
   </build>
-  <build>
+   <build>
 	<name>THE HULK</name>
 	<version>1.3</version>
 	<url>https://rb.gy/3gddml</url>
@@ -338,15 +332,15 @@
 	<description>GREEN GOBLIN THEMED BUILD WITH AEON NOX SILVO SKIN.</description>
 	<preview>https://rumble.com/v6purwi-darealist-green-goblin-silvo.html</preview>
   </build>
-<build>
+  <build>
 	<name>DAREALIST ADULT KODI 21 OMEGA BUILDS</name>
 	<version>0.0</version>
 	<url>http://</url>
 	<icon>http://</icon>
 	<fanart>http://</fanart>
 	<description>DAREALIST ADULT SECTION</description>
-  </build> 
- <build>
+  </build>
+<build>
 	<name>JOKER TV XXX</name>
 	<version>1.0</version>
 	<url>https://rb.gy/w4sdly</url>
@@ -355,15 +349,15 @@
 	<description>JOKER TV.</description>
 	<preview>https://rumble.com/v6xocok-joker-tv-kodi-build.html</preview>
   </build>
- <build>
+<build>
 	<name>SEXTREMELY DIRTY</name>
 	<version>1.1</version>
 	<url>https://rb.gy/zut11g</url>
 	<icon>https://imgur.com/9duTlax.jpg</icon>
 	<fanart>https://imgur.com/9duTlax.jpg</fanart>
 	<description>EXTRA DIRTY ADULT CONTENT. (NO PREVIEW VIDEOS AVAILABLE FOR ADULT CONTENT).</description>
-   <build>
-  <build>
+ <build>
+<build>
 	<name>REACHER XXX</name>
 	<version>1.6</version>
 	<url>https://rb.gy/qnv2by</url>
@@ -394,7 +388,7 @@
 	<icon>https://imgur.com/u1P2BdW.jpg</icon>
 	<fanart>https://imgur.com/u1P2BdW.jpg</fanart>
 	<description>BMF TV SHOW BUILD WITH LIVE TV SPORTS AND ADULT CONTENT.</description>
-        <preview>https://rumble.com/v6wzexg-bmf-kodi-build-with-new-forks.html</preview>
+	<preview>https://rumble.com/v6wzexg-bmf-kodi-build-with-new-forks.html</preview>
   </build>
   <build>
 	<name>GIFFY ADULT</name>
@@ -426,7 +420,7 @@
 	<url>http://</url>
 	<icon>http://</icon>
 	<fanart>http://</fanart>
-	<description>BRADS BUILDS SECTION</description>	  
+	<description>BRADS BUILDS SECTION</description>
   </build>
   <build>
 	<name>BRADS NOX</name>
@@ -508,7 +502,7 @@
 	<icon>https://imgur.com/ElWlI8R.jpg</icon>
 	<fanart>https://imgur.com/ElWlI8R.jpg</fanart>
 	<description>BRAD NOX ASTRONAUT</description>
-        <preview>https://rumble.com/v5x0m5k-astronaut-non-debrid-kodi-build-from-bradleys-builds.html</preview>
+    <preview>https://rumble.com/v5x0m5k-astronaut-non-debrid-kodi-build-from-bradleys-builds.html</preview>
   </build>
   <build>
 	<name>HACKER</name>
@@ -517,8 +511,7 @@
 	<icon>https://imgur.com/HKT9E4x.jpg</icon>
 	<fanart>https://imgur.com/HKT9E4x.jpg</fanart>
 	<description>WE ARE THE INTERNET.</description>
-  </build>
-	   
+</build>
 <build>
 	<name>TECH NICK KODI 21 OMEGA BUILDS</name>
 	<version>0.0</version>
