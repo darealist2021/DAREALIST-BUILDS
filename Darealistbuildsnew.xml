@@ -522,8 +522,8 @@
 </build>
 <build>
 	<name>iDEBRID</name>
-	<version>1.3</version>
-	<url>https://rb.gy/btjjae</url>
+	<version>1.4</version>
+	<url>https://rb.gy/0o67k2</url>
 	<icon>https://imgur.com/EneKDm5.jpg</icon>
 	<fanart>https://imgur.com/EneKDm5.jpg</fanart>
 	<description>iDEBRID.</description>
@@ -531,8 +531,8 @@
 </build>
 <build>
 	<name>AFTER DARK</name>
-	<version>2.4</version>
-	<url>https://rb.gy/k8pytt</url>
+	<version>2.5</version>
+	<url>https://rb.gy/1i4p06</url>
 	<icon>https://imgur.com/E5Pc5tI.jpg</icon>
 	<fanart>https://imgur.com/E5Pc5tI.jpg</fanart>
 	<description>AFTER DARK.</description>
@@ -540,13 +540,21 @@
 </build>
 <build>
 	<name>DR MANHATTAN</name>
-	<version>2.6</version>
-	<url>https://rb.gy/5w53i8</url>
+	<version>2.7</version>
+	<url>https://rb.gy/1cd4qh</url>
 	<icon>https://imgur.com/FLHNG8d.jpg</icon>
 	<fanart>https://imgur.com/FLHNG8d.jpg</fanart>
 	<description>DR MANHATTAN.</description>
 	<preview>https://rumble.com/v6xgi7a-tech-nicks-dr-manhattan-kodi-build.html</preview>
 </build>
-	   
+<build>
+	<name>FREEDOM</name>
+	<version>2.9</version>
+	<url>https://rb.gy/psjbos</url>
+	<icon>https://imgur.com/vYdmepc.jpg</icon>
+	<fanart>https://imgur.com/vYdmepc.jpg</fanart>
+	<description>FREEDOM.</description>
+</build>
+	 
 </builds>
 
