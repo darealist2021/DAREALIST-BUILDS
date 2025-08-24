@@ -382,7 +382,7 @@ description="HORROR THEMED BUILD."
 
 name="WIDGET ZONE OMEGA BUILD"
 version="1.2"
-url="https://rb.gy/ysnvex"
+url="https://rb.gy/7ovrpa"
 minor="http://"
 gui="http://"
 kodi="21.0"
