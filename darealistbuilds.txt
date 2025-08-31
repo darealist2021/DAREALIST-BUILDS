@@ -99,8 +99,8 @@ description="COLLEGE FOOTBALL 26 VIDEO GAME THEME."
 
 
 name="CINEMA PLUS"
-version="1.4"
-url="https://rb.gy/s4ej24"
+version="1.5"
+url="https://rb.gy/4gv6ig"
 minor="http://"
 gui="http://"
 kodi="21.0"
