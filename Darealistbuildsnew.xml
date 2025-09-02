@@ -522,6 +522,14 @@
 	<description>TECH NICK SECTION</description>	  
 </build>
 <build>
+	<name>THE ROCK</name>
+	<version>1.0</version>
+	<url>https://rb.gy/9ixppq</url>
+	<icon>https://imgur.com/Uoe7Io7.jpg</icon>
+	<fanart>https://imgur.com/Uoe7Io7.jpg</fanart>
+	<description>THE ROCK</description>	  
+</build>
+<build>
 	<name>iDEBRID</name>
 	<version>1.5</version>
 	<url>https://rb.gy/g23cal</url>
