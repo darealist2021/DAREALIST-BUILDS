@@ -706,7 +706,7 @@ description="BRADS NOX."
 
 name="BRADS 2 IN 1 WRESTLING NFL"
 version="1.0"
-url="https://rb.gy/e1s33u"
+url="https://rb.gy/3olol3"
 minor="http://"
 gui="http://"
 kodi="21.0"
