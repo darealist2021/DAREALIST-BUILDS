@@ -459,13 +459,6 @@
 	<fanart>http://</fanart>
 	<description>BRADS BUILDS SECTION</description>
   </build>
-	<name>BRADS BATMAN</name>
-	<version>1.0</version>
-	<url>https://rb.gy/6d7t3v</url>
-	<icon>https://imgur.com/LcixnMz.jpg</icon>
-	<fanart>https://imgur.com/LcixnMz.jpg</fanart>
-	<description>BRADS BATMAN</description>
-  </build> 
   <build>
 	<name>BRADS NOX</name>
 	<version>1.4</version>
