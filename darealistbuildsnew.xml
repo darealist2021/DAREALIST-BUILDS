@@ -458,6 +458,14 @@
 	<icon>http://</icon>
 	<fanart>http://</fanart>
 	<description>BRADS BUILDS SECTION</description>
+ </build>
+ <build>
+	<name>BRADS BATMAN</name>
+	<version>1.0</version>
+	<url>https://rb.gy/qaem0a</url>
+	<icon>https://imgur.com/PLPdYs2.jpg</icon>
+	<fanart>https://imgur.com/PLPdYs2.jpg</fanart>
+	<description>BRADS BATMAN</description>
   </build>
   <build>
 	<name>BRADS NOX</name>
