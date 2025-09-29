@@ -460,6 +460,14 @@
 	<description>BRADS BUILDS SECTION</description>
  </build>
  <build>
+	<name>BRADS NINTENDO SWITCH</name>
+	<version>1.0</version>
+	<url>https://rb.gy/xe2m16</url>
+	<icon>https://imgur.com/qSRlexU.jpg</icon>
+	<fanart>https://imgur.com/qSRlexU.jpg</fanart>
+	<description>BRADS NINTENDO SWITCH</description>
+ </build>
+ <build>
 	<name>BRADS BATMAN</name>
 	<version>1.0</version>
 	<url>https://rb.gy/qaem0a</url>
