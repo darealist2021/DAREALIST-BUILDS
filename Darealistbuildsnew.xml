@@ -2,14 +2,6 @@
 
 </build>
 <build>
-	<name>TULSA KING</name>
-	<version>1.1</version>
-	<url>https://rb.gy/dywudj</url>
-	<icon>https://imgur.com/kTlmGyS.jpg</icon>
-	<fanart>https://imgur.com/kTlmGyS.jpg</fanart>
-	<description>TULSA KING</description>
- <build>
-<build>
 	<name>FRIGHT NIGHT</name>
 	<version>1.0</version>
 	<url>https://rb.gy/vygxxb</url>
@@ -18,6 +10,14 @@
 	<description>FRIGHT NIGHT</description>
 	<preview>https://rumble.com/v6zrtgi-fright-night-kodi-build.html</preview>
 </build>
+<build>
+	<name>TULSA KING</name>
+	<version>1.0</version>
+	<url>https://rb.gy/dywudj</url>
+	<icon>https://imgur.com/kTlmGyS.jpg</icon>
+	<fanart>https://imgur.com/kTlmGyS.jpg</fanart>
+	<description>TULSA KING</description>
+ <build>
 <build>
 	<name>CAROLINA PANTHERS</name>
 	<version>1.1</version>
