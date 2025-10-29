@@ -8,6 +8,7 @@
 	<icon>https://imgur.com/kTlmGyS.jpg</icon>
 	<fanart>https://imgur.com/kTlmGyS.jpg</fanart>
 	<description>TULSA KING</description>
+	<preview>https://rumble.com/v70xhn4-tulsa-king-kodi-build.html</preview>
  <build>
 <build>
 	<name>FRIGHT NIGHT</name>
@@ -16,8 +17,17 @@
 	<icon>https://imgur.com/e00m02u.jpg</icon>
 	<fanart>https://imgur.com/e00m02u.jpg</fanart>
 	<description>FRIGHT NIGHT</description>
- </build>
- <build>
+</build>
+<build>
+	<name>FRIGHT NIGHT</name>
+	<version>1.0</version>
+	<url>https://rb.gy/vygxxb</url>
+	<icon>https://imgur.com/e00m02u.jpg</icon>
+	<fanart>https://imgur.com/e00m02u.jpg</fanart>
+	<description>FRIGHT NIGHT</description>
+	<preview>https://rumble.com/v6zrtgi-fright-night-kodi-build.html</preview>
+</build>
+<build>
 	<name>CAROLINA PANTHERS</name>
 	<version>1.1</version>
 	<url>https://rb.gy/rvhfsv</url>
@@ -576,7 +586,7 @@
 	<fanart>https://imgur.com/Cno3zG6.jpg</fanart>
 	<description>PURE HORROR</description>	  
 </build>
-	<build>
+<build>
 	<name>iNON DEBRID</name>
 	<version>1.4</version>
 	<url>https://rb.gy/bcq2sh</url>
