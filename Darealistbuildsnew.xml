@@ -2,6 +2,13 @@
 
 </build>
 <build>
+	<name>TULSA KING</name>
+	<version>1.0</version>
+	<url>https://rb.gy/dywudj</url>
+	<icon>https://imgur.com/kTlmGyS.jpg</icon>
+	<fanart>https://imgur.com/kTlmGyS.jpg</fanart>
+	<description>TULSA KING</description>
+<build>
 	<name>FRIGHT NIGHT</name>
 	<version>1.0</version>
 	<url>https://rb.gy/vygxxb</url>
@@ -11,21 +18,13 @@
 	<preview>https://rumble.com/v6zrtgi-fright-night-kodi-build.html</preview>
 </build>
 <build>
-	<name>TULSA KING</name>
-	<version>1.0</version>
-	<url>https://rb.gy/dywudj</url>
-	<icon>https://imgur.com/kTlmGyS.jpg</icon>
-	<fanart>https://imgur.com/kTlmGyS.jpg</fanart>
-	<description>TULSA KING</description>
- <build>
-<build>
 	<name>CAROLINA PANTHERS</name>
 	<version>1.1</version>
 	<url>https://rb.gy/rvhfsv</url>
 	<icon>https://imgur.com/2x7Crco.jpg</icon>
 	<fanart>https://imgur.com/2x7Crco.jpg</fanart>
 	<description>CAROLINA PANTHERS</description>
-	<preview>https://rumble.com/v6z4j0e-carolina-panthers-kodi-build.html</preview>
+	<preview>https://rumble.com/v6z4j0e-carolina-panthers-kodi-build.html</preview>	
 </build>
 <build>
 	<name>IRONMAN MEDIA</name>
@@ -41,10 +40,10 @@
 	<version>1.1</version>
 	<url>https://rb.gy/as11mj</url>
 	<icon>https://imgur.com/5FoPUYy.jpg</icon>
-	<fanart>https://imgur.com/5FoPUYy</fanart>
+	<fanart>https://imgur.com/5FoPUYy.jpg</fanart>
 	<description>SISTAS TV SHOW</description>
 	<preview>https://rumble.com/v6yra9i-tyler-perrys-sistas-tv-show-kodi-build.html</preview>
-</build>	
+</build>
 <build>
 	<name>2PAC VS BIGGIE</name>
 	<version>1.1</version>
@@ -60,7 +59,7 @@
 	<url>https://rb.gy/phuaja</url>
 	<icon>https://imgur.com/0lZe5Ud.jpg</icon>
 	<fanart>https://imgur.com/0lZe5Ud.jpg</fanart>
-	<description>DALLAS COWBOYS.</description>	
+	<description>DALLAS COWBOYS.</description>
 	<preview>https://rumble.com/v6xwwtk-dallas-cowboys-kodi-build-with-its-own-fork.html</preview>
 </build>
 <build>
@@ -223,8 +222,8 @@
 	<fanart>https://imgur.com/1oKjExv.jpg</fanart>
 	<description>THE INCREDIBLE HULK</description>
 	<preview>https://rumble.com/v6r7c8u-hulk-kodi-build.html</preview>
-  </build>
-  <build>
+</build>
+<build>
 	<name>REACHER XXX</name>
 	<version>1.7</version>
 	<url>https://rb.gy/e5wes9</url>
@@ -384,15 +383,6 @@
 	<icon>http://</icon>
 	<fanart>http://</fanart>
 	<description>DAREALIST ADULT SECTION</description>
-  </build>
-<build>
-	<name>JOKER TV XXX</name>
-	<version>1.2</version>
-	<url>https://rb.gy/2mjjfq</url>
-	<icon>https://imgur.com/AEW439d.jpg</icon>
-	<fanart>https://imgur.com/AEW439d.jpg</fanart>
-	<description>JOKER TV.</description>
-	<preview>https://rumble.com/v6xocok-joker-tv-kodi-build.html</preview>
 </build>
 <build>
 	<name>MANCAVE</name>
@@ -402,6 +392,15 @@
 	<fanart>https://imgur.com/OcXSWl8.jpg</fanart>
 	<description>MANCAVE</description>
 	<preview>https://rumble.com/v6rpqs7-mancave-kodi-build.html</preview>
+</build>
+<build>
+	<name>JOKER TV XXX</name>
+	<version>1.2</version>
+	<url>https://rb.gy/2mjjfq</url>
+	<icon>https://imgur.com/AEW439d.jpg</icon>
+	<fanart>https://imgur.com/AEW439d.jpg</fanart>
+	<description>JOKER TV.</description>
+	<preview>https://rumble.com/v6xocok-joker-tv-kodi-build.html</preview>
 </build>
 <build>
 	<name>SEXTREMELY DIRTY</name>
@@ -418,8 +417,8 @@
 	<icon>https://imgur.com/NfN3CTb.jpg</icon>
 	<fanart>https://imgur.com/NfN3CTb.jpg</fanart>
 	<description>REACHER TV SHOW THEME WITH ADULT CONTENT</description>
-  </build>
-  <build>
+</build>
+<build>
 	<name>DAREALIST TV V2 XXX</name>
 	<version>1.9</version>
 	<url>https://rb.gy/tth979</url>
@@ -475,16 +474,16 @@
 	<icon>http://</icon>
 	<fanart>http://</fanart>
 	<description>BRADS BUILDS SECTION</description>
-  </build>
-  <build>
+ </build>
+ <build>
 	<name>BRADS NINTENDO SWITCH</name>
 	<version>1.0</version>
 	<url>https://rb.gy/xe2m16</url>
 	<icon>https://imgur.com/qSRlexU.jpg</icon>
 	<fanart>https://imgur.com/qSRlexU.jpg</fanart>
 	<description>BRADS NINTENDO SWITCH</description>
-  </build>
-  <build>
+ </build>
+ <build>
 	<name>BRADS BATMAN</name>
 	<version>1.0</version>
 	<url>https://rb.gy/qaem0a</url>
@@ -524,7 +523,7 @@
 	<icon>https://imgur.com/4cqO3aw.jpg</icon>
 	<fanart>https://imgur.com/4cqO3aw.jpg</fanart>
 	<description>MR TERRIFIC</description>	  
-</build> 
+</build>
 <build>
 	<name>THE ROCK</name>
 	<version>1.1</version>
@@ -587,4 +586,3 @@
 </build>
 	 
 </builds>
-
