@@ -1,6 +1,13 @@
 <builds>
 
 </build>
+	<build>
+	<name>TULSA KING</name>
+	<version>1.0</version>
+	<url>https://rb.gy/dywudj</url>
+	<icon>https://imgur.com/kTlmGyS.jpg</icon>
+	<fanart>https://imgur.com/kTlmGyS.jpg</fanart>
+	<description>TULSA KING</description>
 <build>
 	<name>FRIGHT NIGHT</name>
 	<version>1.0</version>
