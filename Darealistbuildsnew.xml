@@ -71,7 +71,7 @@
 	<fanart>https://imgur.com/0lZe5Ud.jpg</fanart>
 	<description>DALLAS COWBOYS.</description>
 	<preview>https://rumble.com/v6xwwtk-dallas-cowboys-kodi-build-with-its-own-fork.html</preview>
-</build>
+ </build>
 <build>
 	<name>JOKER TV NO XXX</name>
 	<version>1.1</version>
@@ -89,34 +89,8 @@
 	<fanart>https://imgur.com/0O2Yq4C.jpg</fanart>
 	<description>KOBE BEAN BRYANT.</description>
 	<preview>https://rumble.com/v6xe8d2-kobe-bryant-themed-kodi-build.html</preview>
-  </build>
-  <build>
-	<name>AVENGERS TV</name>
-	<version>1.5</version>
-	<url>https://rb.gy/5tb5vo</url>
-	<icon>https://imgur.com/e6x05Ym.jpg</icon>
-	<fanart>https://imgur.com/e6x05Ym.jpg</fanart>
-	<description>MARVEL AVENGERS THEME.</description>
-	<preview>https://rumble.com/v6wney4-avengers-tv-kodi-build.html</preview>
-  </build>
-  <build>
-	<name>FANTASTIC FOUR</name>
-	<version>1.1</version>
-	<url>https://rb.gy/e9pbgl</url>
-	<icon>https://imgur.com/IFJKz8t.jpg</icon>
-	<fanart>https://imgur.com/IFJKz8t.jpg</fanart>
-	<description>FANTASTIC FOUR THEME</description>
-	<preview>https://rumble.com/v6wtlug-fantastic-four-kodi-build.html</preview>
-   <build>
-  <build>
-	<name>AVENGERS TV</name>
-	<version>1.2</version>
-	<url>https://rb.gy/c3cbba</url>
-	<icon>https://imgur.com/e6x05Ym.jpg</icon>
-	<fanart>https://imgur.com/e6x05Ym.jpg</fanart>
-	<description>MARVEL AVENGERS THEME.</description>
-  </build>    		
-  <build>
+ </build>
+<build>
 	<name>COLLEGE FOOTBALL 26</name>
 	<version>1.2</version>
 	<url>https://rb.gy/vj833w</url>
@@ -124,8 +98,8 @@
 	<fanart>https://imgur.com/9RkkI1E.jpg</fanart>
 	<description>COLLEGE FOOTBALL 26.</description>
 	<preview>https://rumble.com/v6wggtg-college-football-26-kodi-build.html</preview>
-  </build>
-  <build>
+</build>
+<build>
 	<name>CINEMA PLUS</name>
 	<version>1.6</version>
 	<url>https://rb.gy/p412hv</url>
@@ -133,8 +107,8 @@
 	<fanart>https://imgur.com/g1itI2c.jpg</fanart>
 	<description>CINEMA PLUS.</description>
 	<preview>https://rumble.com/v6tfs65-cinema-plus-kodi-build.html</preview>
-  </build>
-  <build>
+</build>
+<build>
 	<name>SQUID GAMES</name>
 	<version>1.4</version>
 	<url>https://rb.gy/1r2qa0</url>
@@ -142,8 +116,8 @@
 	<fanart>https://imgur.com/LXw69t3.jpg</fanart>
 	<description>SQUID GAMES.</description>
 	<preview>https://rumble.com/v6udhf5-squid-games-kodi-build-32.bit-7259626-64bit-7026450.html</preview>
-  </build>
-  <build>
+</build>
+<build>
 	<name>SOUTH CAROLINA vs CLEMSON</name>
 	<version>1.0</version>
 	<url>https://rb.gy/o5gglp</url>
@@ -151,8 +125,8 @@
 	<fanart>https://imgur.com/wVVbmZ4.jpg</fanart>
 	<description>IN STATE RIVALS SOUTH CAROLINA vs CLEMSON .</description>
 	<preview>https://rumble.com/v6u05wp-clemsonsc-rivals-32bit-6083558-64bit-2103602.html</preview>
-  </build>
-  <build>
+</build>
+<build>
 	<name>STEELERS OMEGA</name>
 	<version>1.9</version>
 	<url>https://rb.gy/0k2hms</url>
@@ -160,8 +134,8 @@
 	<fanart>https://imgur.com/xWu3vQ8.jpg</fanart>
 	<description>PITTSBURGH STEELERS BUILD.</description>
 	<preview>https://rumble.com/v6xgheo-pittsburgh-steelers-kodi-build.html</preview>
-  </build>
-  <build>
+</build>
+<build>
 	<name>DAREALIST TV V2 NO XXX</name>
 	<version>2.1</version>
 	<url>https://rb.gy/4da7zx</url>
@@ -169,8 +143,8 @@
 	<fanart>https://imgur.com/tNKvajK.jpg</fanart>
 	<description>DAREALIST TV VERSION 2.</description>
 	<preview>https://rumble.com/v6t50fp-darealist-tv-v2-kodi-build.html</preview> 
-  </build>
-  <build>
+</build>
+<build>
 	<name>MILES MORALES AND SPIDERMAN</name>
 	<version>1.0</version>
 	<url>https://rb.gy/r782t8</url>
@@ -178,8 +152,8 @@
 	<fanart>https://imgur.com/tUWjeHp.jpg</fanart>
 	<description>MILES MORALES AND SPIDERMAN SWITCHABLE THEME</description>
 	<preview>https://rumble.com/v6sl5yj-miles-moralesspiderman-2-in-1-kodi-build.html</preview>
-  </build>
-  <build>
+</build>
+<build>
 	<name>SPIDERMAN</name>
 	<version>1.0</version>
 	<url>https://rb.gy/uzqgv3</url>
@@ -187,16 +161,7 @@
 	<fanart>https://imgur.com/JRmt2uk.jpg</fanart>
 	<description>SPIDERMAN THEME</description>
 	<preview>https://rumble.com/v6shrdh-spiderman-kodi-build.html</preview>
-  </build>	
-  <build>
-	<name>FRIDAY</name>
-	<version>1.3</version>
-	<url>https://rb.gy/8ez9z7</url>
-	<icon>https://imgur.com/52kO29w.jpg</icon>
-	<fanart>https://imgur.com/52kO29w.jpg</fanart>
-	<description>FRIDAY MOVIE THEME</description>
-	<preview>https://rumble.com/v6rw9kl-friday-kodi-build.html</preview>
-</build>
+</build>	
 <build>    
 	<name>GRAFFITI</name>
 	<version>2.5</version>
@@ -205,8 +170,8 @@
 	<fanart>https://imgur.com/rKafkcB.jpg</fanart>
 	<description>GRAFFITI BUILD</description>
 	<preview>https://rumble.com/v6prs1c-darealist-grafitti-build.html</preview>
-  </build>
-  <build>
+</build>
+<build>
 	<name>BATMAN 1</name>
 	<version>1.6</version>
 	<url>https://rb.gy/wlewjc</url>
@@ -214,8 +179,8 @@
 	<fanart>https://imgur.com/q10dKcy.jpg</fanart>
 	<description>BATMAN BUILD ON BLACK GLASS NOVA SKIN</description>
 	<preview>https://rumble.com/v6prxt9-darealist-batman-build-1.html</preview>
-  </build>
-  <build>
+</build>
+<build>
 	<name>SILVO ULTRA LIVE TV</name>
 	<version>2.4</version>
 	<url>https://rb.gy/7xnws0</url>
@@ -223,8 +188,8 @@
 	<fanart>https://imgur.com/EMYPxYZ.jpg</fanart>
 	<description>BUILD WITH LOTS OF LIVE TV.</description>
 	<preview>https://rumble.com/v6ps5go-darealist-silvo-ultra-live.html</preview>
-  </build>
-  <build>
+</build>
+<build>
 	<name>GALAXY</name>
 	<version>1.9</version>
 	<url>https://rb.gy/nyymxd</url>
