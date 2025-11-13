@@ -215,7 +215,7 @@
 	<fanart>https://imgur.com/8j2jfrg.jpg</fanart>
 	<description>WIDGET ZONE OMEGA BUILD.</description>
 	<preview>https://rumble.com/v6x0qzu-new-updated-widget-zone-kodi-build.html</preview>
-  </build>
+   </build>
   <build>
 	<name>NFL</name>
 	<version>2.8</version>
@@ -225,7 +225,7 @@
 	<description>THE NFL BUILD.</description>
 	<preview>https://rumble.com/v6xe7os-nfl-themed-kodi-build.html</preview>
   </build>
-  <build>
+ <build>
 	<name>BMF</name>
 	<version>1.5</version>
 	<url>https://rb.gy/ejufca</url>
@@ -234,7 +234,7 @@
 	<description>BMF TV SHOW BUILD HAS SOME OF EVERYTHING.</description>
 	<preview>https://rumble.com/v6wzexg-bmf-kodi-build-with-new-forks.html</preview>
   </build>
-   <build>
+ <build>
 	<name>SPORTACULAR</name>
 	<version>2.5</version>
 	<url>https://rb.gy/jk5l08</url>
@@ -243,14 +243,14 @@
 	<description>NOTHING BUT SPORTS.</description>
 	<preview>https://rumble.com/v6pu3k2-darealist-sportacular-build.html</preview>
   </build>
-  <build>
+ <build>
 	<name>DAREALIST ADULT KODI 21 OMEGA BUILDS</name>
 	<version>0.0</version>
 	<url>http://</url>
 	<icon>http://</icon>
 	<fanart>http://</fanart>
 	<description>DAREALIST ADULT SECTION</description>
-</build>
+ </build>
 <build>
 	<name>MANCAVE</name>
 	<version>1.5</version>
@@ -259,7 +259,7 @@
 	<fanart>https://imgur.com/OcXSWl8.jpg</fanart>
 	<description>MANCAVE</description>
 	<preview>https://rumble.com/v6rpqs7-mancave-kodi-build.html</preview>
-</build>
+ </build>
 <build>
 	<name>JOKER TV XXX</name>
 	<version>1.2</version>
@@ -317,14 +317,6 @@
 	<icon>https://imgur.com/f7sMbYP.jpg</icon>
 	<fanart>https://imgur.com/f7sMbYP.jpg</fanart>
 	<description>HORROR THEMED BUILD WITH ADULT CONTENT.</description>
-  </build>
-  <build>
-    <name>GOBLINS TOUCH XXX</name>
-	<version>1.5</version>
-	<url>https://rb.gy/pqhv98</url>
-	<icon>https://imgur.com/A1CQSaO.jpg</icon>
-	<fanart>https://imgur.com/A1CQSaO.jpg</fanart>
-	<description>GREEN GOBLINS TOUCH BUILD FOR TOUCHSCREEN DEVICES ALSO.</description>
   </build>
   <build>
 	<name>BRADS KODI 21 OMEGA BUILDS</name>
