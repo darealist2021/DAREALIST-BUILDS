@@ -1,6 +1,14 @@
 <builds>
 
 </build>
+<build>
+	<name>STRANGER THINGS</name>
+	<version>1.0</version>
+	<url>https://rb.gy/vle3s4</url>
+	<icon>https://imgur.com/GNVujaR.jpg</icon>
+	<fanart>https://imgur.com/GNVujaR.jpg</fanart>
+	<description>STRANGER THINGS</description>
+ </build>
  <build>
 	<name>TOUCH SPORTS</name>
 	<version>1.9</version>
