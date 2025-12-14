@@ -422,7 +422,7 @@ description="JOKER TV XXX."
 
 name="SEXTREMELY DIRTY"
 version="1.2"
-url="https://rb.gy/tf3l4l"
+url="https://rb.gy/lk0feo"
 minor="http://"
 gui="http://"
 kodi="21.0"
