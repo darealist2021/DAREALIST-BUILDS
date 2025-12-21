@@ -462,7 +462,7 @@ adult="no"
 info="http://"
 description="BRADLEYS Builds. Please select from the list below."
 
-name="BRADS SILVO TV"
+name="BRADS NOX LIVE"
 version="2.4"
 url="https://rb.gy/7xnws0"
 minor="http://"
