@@ -363,6 +363,14 @@
 	<icon>http://</icon>
 	<fanart>http://</fanart>
 	<description>TECH NICK SECTION</description>	  
+ </build>
+<build>
+	<name>POWER</name>
+	<version>2.3</version>
+	<url>https://rb.gy/kztrkv</url>
+	<icon>https://imgur.com/QLCB8aw.jpg</icon>
+	<fanart>https://imgur.com/QLCB8aw.jpg</fanart>
+	<description>POWER</description>	  
 </build>
 <build>
 	<name>MR TERRIFIC</name>
