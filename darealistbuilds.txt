@@ -464,19 +464,19 @@ info="http://"
 description="BRADS NOX."
 
 
-name="BRAD TEN PIN BOWLING "
-version="1.1"
-url="https://rb.gy/9d8m86"
+name="BRAD BOWLING "
+version="1.2"
+url="https://rb.gy/gsmfzi"
 minor="http://"
 gui="http://"
 kodi="21.0"
 theme="http://"
-icon="https://imgur.com/5tlxFi0.jpg"
-fanart="https://imgur.com/5tlxFi0.jpg"
+icon="https://imgur.com/BcnfwPs.jpg"
+fanart="https://imgur.com/BcnfwPs.jpg"
 preview="http://"
 adult="no"
 info="http://"
-description="BRAD TEN PIN BOWLING"
+description="BRAD BOWLING"
 
 
 
