@@ -311,11 +311,19 @@
 	<icon>http://</icon>
 	<fanart>http://</fanart>
 	<description>TECH NICK SECTION</description>	  
- </build>
+</build>
+<build>
+	<name>JUST SCRUBS</name>
+	<version>1.4</version>
+	<url>https://rb.gy/jkzvqk</url>
+	<icon>https://imgur.com/9rnTrAp.jpg</icon>
+	<fanart>https://imgur.com/9rnTrAp.jpg</fanart>
+	<description>JUST SCRUBS</description>	  
+</build>
 <build>
 	<name>POWER</name>
-	<version>2.3</version>
-	<url>https://rb.gy/kztrkv</url>
+	<version>2.4</version>
+	<url>https://rb.gy/sbb8t5</url>
 	<icon>https://imgur.com/QLCB8aw.jpg</icon>
 	<fanart>https://imgur.com/QLCB8aw.jpg</fanart>
 	<description>POWER</description>	  
@@ -365,8 +373,8 @@
 </build>
 <build>
 	<name>FREEDOM</name>
-	<version>3.7</version>
-	<url>https://rb.gy/nwv4wg</url>
+	<version>3.8</version>
+	<url>https://rb.gy/fkxqzv</url>
 	<icon>https://imgur.com/vYdmepc.jpg</icon>
 	<fanart>https://imgur.com/vYdmepc.jpg</fanart>
 	<description>FREEDOM.</description>
@@ -382,8 +390,8 @@
 </build>
 <build>
 	<name>iNON DEBRID</name>
-	<version>1.8</version>
-	<url>https://rb.gy/4p3vvo</url>
+	<version>1.9</version>
+	<url>https://rb.gy/qzbfut</url>
 	<icon>https://imgur.com/jsKdPar.jpg</icon>
 	<fanart>https://imgur.com/jsKdPar.jpg</fanart>
 	<description>iNON DEBRID</description>	  
