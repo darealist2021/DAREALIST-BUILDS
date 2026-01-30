@@ -2,6 +2,14 @@
 
 </build>
 <build>
+	<name>SHOWTIME</name>
+	<version>1.0</version>
+	<url>https://rb.gy/gi8i89</url>
+	<icon>https://imgur.com/ZeSS6OL.jpg</icon>
+	<fanart>https://imgur.com/ZeSS6OL.jpg</fanart>
+	<description>SHOWTIME</description>
+</build>
+<build>
 	<name>STRANGER THINGS</name>
 	<version>1.0</version>
 	<url>https://rb.gy/vle3s4</url>
@@ -10,15 +18,6 @@
 	<description>STRANGER THINGS</description>
  </build>
  <build>
-	<name>CHRISTMAS 2025</name>
-	<version>1.2</version>
-	<url>https://rb.gy/ex8k5e</url>
-	<icon>https://imgur.com/A4XDL0f.jpg</icon>
-	<fanart>https://imgur.com/A4XDL0f.jpg</fanart>
-	<description>CHRISTMAS 2025</description>
-	<preview>https://rumble.com/v71z6ma-christmas-kodi-build.html</preview>
-</build>
-<build>
 	<name>TULSA KING</name>
 	<version>1.1</version>
 	<url>https://rb.gy/dywudj</url>
