@@ -2,6 +2,14 @@
 
 </build>
 <build>
+	<name>SHOWTIME</name>
+	<version>1.0</version>
+	<url>https://rb.gy/gi8i89</url>
+	<icon>https://imgur.com/ZeSS6OL.jpg</icon>
+	<fanart>https://imgur.com/ZeSS6OL.jpg</fanart>
+	<description>SHOWTIME</description>
+</build>
+<build>
 	<name>STRANGER THINGS</name>
 	<version>1.0</version>
 	<url>https://rb.gy/vle3s4</url>
