@@ -15,7 +15,7 @@ description="DAREALIST Builds. Please select from the list below."
 
 name="STRANGER THINGS"
 version="1.0"
-url="https://rb.gy/vle3s4"
+url="https://rebrand.ly/z3i31t7"
 minor="http://"
 gui="http://"
 kodi="21.0"
