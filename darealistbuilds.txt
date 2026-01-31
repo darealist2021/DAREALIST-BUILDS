@@ -99,8 +99,8 @@ description="CAROLINA PANTHERS."
 
 
 name="IRONMAN MEDIA"
-version="1.4"
-url="https://rb.gy/q63190"
+version="1.5"
+url="https://rb.gy/dio9cf"
 minor="http://"
 gui="http://"
 kodi="21.0"
