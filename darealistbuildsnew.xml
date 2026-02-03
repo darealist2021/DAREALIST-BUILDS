@@ -296,13 +296,29 @@
 	<description>BOWLING THEME.</description>
   </build>
   <build>
+	<name>RAGE IN THE CAGE</name>
+	<version>1.3</version>
+	<url>https://rb.gy/bwbe96</url>
+	<icon>https://imgur.com/NMFCDVe.jpg</icon>
+	<fanart>https://imgur.com/NMFCDVe.jpg</fanart>
+	<description>RAGE IN THE CAGE</description>	  
+</build>
+<build>
+	<name>KSP</name>
+	<version>1.4</version>
+	<url>https://rb.gy/9bfa6a</url>
+	<icon>https://imgur.com/OtnMq3x.jpg</icon>
+	<fanart>https://imgur.com/OtnMq3x.jpg</fanart>
+	<description>KSP</description>	  
+</build>  
+<build>
 	<name>TECH NICK KODI 21 OMEGA BUILDS</name>
 	<version>0.0</version>
 	<url>http://</url>
 	<icon>http://</icon>
 	<fanart>http://</fanart>
 	<description>TECH NICK SECTION</description>	  
-</build>
+</build>	 
 <build>
 	<name>JUST SCRUBS</name>
 	<version>1.5</version>
