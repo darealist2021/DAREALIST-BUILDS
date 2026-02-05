@@ -336,7 +336,7 @@ adult="no"
 info="http://"
 description="DAREALIST Builds. Please select from the list below."
 
-name=" SERIOUS PARENTAL ADVISORY"
+name="SERIOUS PARENTAL ADVISORY"
 version="1.0"
 url="https://rebrand.ly/d19344"
 minor="http://"
