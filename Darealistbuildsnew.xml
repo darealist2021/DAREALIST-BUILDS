@@ -197,14 +197,22 @@
 	<preview>https://rumble.com/v6pu3k2-darealist-sportacular-build.html</preview>
   </build>
  <build>
-	<name>DAREALIST ADULT KODI 21 OMEGA BUILDS</name>
+	<name>DAREALIST ADULT SECTION</name>
 	<version>0.0</version>
 	<url>http://</url>
 	<icon>http://</icon>
 	<fanart>http://</fanart>
 	<description>DAREALIST ADULT SECTION</description>
  </build>
-<build>
+ <build>
+	<name>SERIOUS PARENTAL ADVISORY</name>
+	<version>0.0</version>
+	<url>https://rebrand.ly/d19344</url>
+	<icon>https://imgur.com/mxyQtsu.jpg</icon>
+	<fanart>https://imgur.com/mxyQtsu.jpg</fanart>
+	<description>SERIOUS PARENTAL ADVISORY</description>
+ </build>
+ <build>
 	<name>MANCAVE</name>
 	<version>1.6</version>
 	<url>https://rb.gy/5j4fju</url>
