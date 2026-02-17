@@ -344,20 +344,12 @@
 	<description>POWER</description>	  
 </build>
 <build>
-	<name>MR TERRIFIC</name>
-	<version>1.5</version>
-	<url>https://rb.gy/1n5srv</url>
-	<icon>https://imgur.com/4cqO3aw.jpg</icon>
-	<fanart>https://imgur.com/4cqO3aw.jpg</fanart>
-	<description>MR TERRIFIC</description>	  
-</build>
-<build>
-	<name>THE ROCK</name>
-	<version>1.2</version>
-	<url>https://rb.gy/0wtnew</url>
-	<icon>https://imgur.com/Uoe7Io7.jpg</icon>
-	<fanart>https://imgur.com/Uoe7Io7.jpg</fanart>
-	<description>THE ROCK</description>	  
+	<name>THE COMEDIAN</name>
+	<version>2.0</version>
+	<url>https://rb.gy/pu6sc4</url>
+	<icon>https://imgur.com/W6kU9pb.jpg</icon>
+	<fanart>https://imgur.com/W6kU9pb.jpg</fanart>
+	<description>THE COMEDIAN</description>	  
 </build>
 <build>
 	<name>iDEBRID</name>
