@@ -2,6 +2,14 @@
 
 </build>
 <build>
+	<name>DOOMSDAY</name>
+	<version>1.0</version>
+	<url>https://rb.gy/fqyvey</url>
+	<icon>https://imgur.com/grWW8J4.jpg</icon>
+	<fanart>https://imgur.com/grWW8J4.jpg</fanart>
+	<description>DOOMSDAY</description>
+</build>
+<build>
 	<name>SHOWTIME</name>
 	<version>1.0</version>
 	<url>https://rb.gy/gi8i89</url>
