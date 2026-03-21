@@ -29,8 +29,8 @@ description="SPIDERMAN BRAND NEW DAY."
 
 
 name="DEADPOOL"
-version="1.1"
-url="https://rb.gy/mmlhxh"
+version="1.2"
+url="https://rb.gy/9jtc1x"
 minor="http://"
 gui="http://"
 kodi="21.0"
