@@ -343,7 +343,15 @@
 	<fanart>http://</fanart>
 	<description>TECH NICK SECTION</description>	  
 </build>
-	  <build>
+<build>
+	<name>EASTERN HEROES</name>
+	<version>1.0</version>
+	<url>https://rb.gy/kiekt2</url>
+	<icon>https://imgur.com/HqHBXJZ.jpg</icon>
+	<fanart>https://imgur.com/HqHBXJZ.jpg</fanart>
+	<description>EASTERN HEROES</description>	  
+</build>
+<build>
 	<name>RAGE IN THE CAGE</name>
 	<version>1.4</version>
 	<url>https://rb.gy/kgk5pe</url>
@@ -385,8 +393,8 @@
 </build>
 <build>
 	<name>iDEBRID</name>
-	<version>1.8</version>
-	<url>https://rb.gy/hgj8td</url>
+	<version>1.9</version>
+	<url>https://rb.gy/emxg5p</url>
 	<icon>https://imgur.com/EneKDm5.jpg</icon>
 	<fanart>https://imgur.com/EneKDm5.jpg</fanart>
 	<description>iDEBRID.</description>
@@ -394,8 +402,8 @@
 </build>
 <build>
 	<name>AFTER DARK</name>
-	<version>3.0</version>
-	<url>https://rb.gy/atj0jk</url>
+	<version>3.1</version>
+	<url>https://rb.gy/3fvebi</url>
 	<icon>https://imgur.com/E5Pc5tI.jpg</icon>
 	<fanart>https://imgur.com/E5Pc5tI.jpg</fanart>
 	<description>AFTER DARK.</description>
@@ -421,8 +429,8 @@
 </build>
 <build>
 	<name>PURE HORROR</name>
-	<version>2.1</version>
-	<url>https://rb.gy/llemcy</url>
+	<version>2.3</version>
+	<url>https://rb.gy/giomtm</url>
 	<icon>https://imgur.com/Cno3zG6.jpg</icon>
 	<fanart>https://imgur.com/Cno3zG6.jpg</fanart>
 	<description>PURE HORROR</description>	  
