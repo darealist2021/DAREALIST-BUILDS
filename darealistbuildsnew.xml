@@ -2,6 +2,14 @@
 
 </build>
 <build>
+	<name>DETFLIX NO XXX</name>
+	<version>1.0</version>
+	<url>https://rb.gy/gknip1</url>
+	<icon>https://imgur.com/FcSq3R6.jpg</icon>
+	<fanart>https://imgur.com/FcSq3R6.jpg</fanart>
+	<description>NETFLIX STYLE BUILD.</description>
+</build>
+<build>
 	<name>SPIDERMAN BRAND NEW DAY</name>
 	<version>1.0</version>
 	<url>https://rb.gy/fan03v</url>
@@ -165,16 +173,7 @@
 	<description>PITTSBURGH STEELERS BUILD.</description>
 	<preview>https://rumble.com/v6xgheo-pittsburgh-steelers-kodi-build.html</preview>
  </build>
-<build>
-	<name>DAREALIST TV V2 NO XXX</name>
-	<version>2.2</version>
-	<url>https://rb.gy/xlf4r0</url>
-	<icon>https://imgur.com/tNKvajK.jpg</icon>
-	<fanart>https://imgur.com/tNKvajK.jpg</fanart>
-	<description>DAREALIST TV VERSION 2.</description>
-	<preview>https://rumble.com/v6t50fp-darealist-tv-v2-kodi-build.html</preview> 
- </build>
-<build>    
+ <build>    
 	<name>GRAFFITI</name>
 	<version>2.6</version>
 	<url>https://rb.gy/zrxsbd</url>
@@ -279,13 +278,13 @@
 	<description>DAREALIST TV VERSION 2.</description>
  </build>
 <build>
-	<name>DAREALIST TV V2 XXX</name>
-	<version>2.1</version>
-	<url>https://rb.gy/4ukwtr</url>
-	<icon>https://imgur.com/tNKvajK.jpg</icon>
-	<fanart>https://imgur.com/tNKvajK.jpg</fanart>
-	<description>DAREALIST TV VERSION 2.</description>
-  </build>
+	<name>DETFLIX XXX</name>
+	<version>1.0</version>
+	<url>https://rb.gy/23lpqy</url>
+	<icon>https://imgur.com/FcSq3R6.jpg</icon>
+	<fanart>https://imgur.com/FcSq3R6.jpg</fanart>
+	<description>NETFLIX STYLE BUILD.</description>
+ </build>
   <build>
 	<name>CUMFY</name>
 	<version>1.4</version>
