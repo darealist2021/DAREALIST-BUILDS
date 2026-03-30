@@ -11,7 +11,23 @@ fanart="http://"
 preview="http://"
 adult="no"
 info="http://"
-description="DAREALIST Builds. Please select from the list below."
+description="DAREALIST Builds. Please select from the list below.
+
+"name="MAJOR LEAGUE BASEBALL"
+version="1.0"
+url="https://rb.gy/j3dkpn"
+minor="http://"
+gui="http://"
+kodi="21.0"
+theme="http://"
+icon="https://imgur.com/Opj5nIM.jpg"
+fanart="https://imgur.com/Opj5nIM.jpg"
+preview="http://"
+adult="no"
+info="http://"
+description="MAJOR LEAGUE BASEBALL."
+
+
 
 name="SPIDERMAN BRAND NEW DAY"
 version="1.0"
