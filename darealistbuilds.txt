@@ -14,8 +14,8 @@ info="http://"
 description="DAREALIST Builds. Please select from the list below.
 
 "name="MAJOR LEAGUE BASEBALL"
-version="1.1"
-url="https://rb.gy/omp6x0"
+version="1.2"
+url="https://rb.gy/66ndqp"
 minor="http://"
 gui="http://"
 kodi="21.0"
