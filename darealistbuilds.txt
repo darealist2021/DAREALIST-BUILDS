@@ -410,7 +410,7 @@ description="MANCAVE."
 
 name="SEXTREMELY DIRTY"
 version="1.2"
-url="https://rb.gy/lk0feo"
+url="https://linkly.link/2fbVd"
 minor="http://"
 gui="http://"
 kodi="21.0"
