@@ -382,7 +382,7 @@ description="DAREALIST Builds. Please select from the list below."
 
 name="SERIOUS PARENTAL ADVISORY"
 version="1.0"
-url="https://rebrand.ly/d19344"
+url="https://linkly.link/2fbVg"
 minor="http://"
 gui="http://"
 kodi="21.0"
