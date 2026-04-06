@@ -234,6 +234,14 @@
 	<fanart>http://</fanart>
 	<description>DAREALIST ADULT SECTION</description>
 </build>
+<build>
+	<name>THE HUB</name>
+	<version>1.0</version>
+	<url>https://linkly.link/2fbkC</url>
+	<icon>https://imgur.com/JaVVWmj.jpg</icon>
+	<fanart>https://imgur.com/JaVVWmj.jpg</fanart>
+	<description>ADULT CONTENT</description>
+ </build>
  <build>
 	<name>SERIOUS PARENTAL ADVISORY</name>
 	<version>1.0</version>
