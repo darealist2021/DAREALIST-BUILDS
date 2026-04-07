@@ -102,7 +102,7 @@ description="SHOWTIME."
 
 name="STRANGER THINGS"
 version="1.4"
-url="https://rb.gy/hsqs1x"
+url="https://linkly.link/2fhIc"
 minor="http://"
 gui="http://"
 kodi="21.0"
