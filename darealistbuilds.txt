@@ -74,7 +74,7 @@ description="GTA 6 NBA 2K26 THEME."
 
 name="DOOMSDAY"
 version="1.1"
-url="https://linkly.link/2fhHF"
+url="https://rebrand.ly/DOOMZDAY11"
 minor="http://"
 gui="http://"
 kodi="21.0"
