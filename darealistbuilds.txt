@@ -116,7 +116,7 @@ description="STRANGER THINGS."
 
 name="TULSA KING"
 version="1.2"
-url="https://rb.gy/kni4n5"
+url="https://rebrand.ly/TULSAKING12"
 minor="http://"
 gui="http://"
 kodi="21.0"
