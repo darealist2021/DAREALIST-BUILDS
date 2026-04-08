@@ -46,7 +46,7 @@ description="SPIDERMAN BRAND NEW DAY."
 
 name="DEADPOOL"
 version="1.2"
-url="https://linkly.link/2ff1R"
+url="https://rebrand.ly/DEADPOOL11"
 minor="http://"
 gui="http://"
 kodi="21.0"
