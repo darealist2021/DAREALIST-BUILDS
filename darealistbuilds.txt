@@ -144,7 +144,7 @@ description="FRIGHT NIGHT."
 
 name="IRONMAN MEDIA"
 version="1.6"
-url="https://linkly.link/2fhIC"
+url="https://rebrand.ly/IRONMAN16"
 minor="http://"
 gui="http://"
 kodi="21.0"
