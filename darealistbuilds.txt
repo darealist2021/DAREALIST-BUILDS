@@ -340,7 +340,7 @@ description="NOTHING BUT SPORTS."
 
 name="CAROLINA PANTHERS"
 version="1.4"
-url="https://rb.gy/u0144z"
+url="https://rebrand.ly/PANTHERS14"
 minor="http://"
 gui="http://"
 kodi="21.0"
