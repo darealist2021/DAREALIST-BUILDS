@@ -60,7 +60,7 @@ description="DEADPOOL."
 
 name="GTA 6 NBA 2K26"
 version="1.1"
-url="https://linkly.link/2fhGZ"
+url="https://rebrand.ly/GTANBA11"
 minor="http://"
 gui="http://"
 kodi="21.0"
