@@ -158,7 +158,7 @@ description="IRONMAN MEDIA."
 
 name="SISTAS TV SHOW"
 version="1.4"
-url="https://rebrand.ly/11adf5"
+url="https://rebrand.ly/SISTAS14"
 minor="http://"
 gui="http://"
 kodi="21.0"
