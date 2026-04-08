@@ -31,7 +31,7 @@ description="MAJOR LEAGUE BASEBALL."
 
 name="SPIDERMAN BRAND NEW DAY"
 version="1.0"
-url="https://linkly.link/2fepx"
+url="https://rebrand.ly/SPIDERMANNEWDAY1"
 minor="http://"
 gui="http://"
 kodi="21.0"
