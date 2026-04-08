@@ -397,7 +397,7 @@ description="ADULT CONTENT."
 
 name="SERIOUS PARENTAL ADVISORY"
 version="1.0"
-url="https://linkly.link/2fbVg"
+url="https://rebrand.ly/parentaladvisory"
 minor="http://"
 gui="http://"
 kodi="21.0"
