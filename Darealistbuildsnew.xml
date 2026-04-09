@@ -337,9 +337,25 @@
 	<name>TECH NICK KODI 21 OMEGA BUILDS</name>
 	<version>0.0</version>
 	<url>http://</url>
+	<icon>https://imgur.com/WI4mMOt.jpg</icon>
+	<fanart>https://imgur.com/WI4mMOt.jpg</fanart>
+	<description>TECH NICK SECTION</description>	  
+</build>
+<build>
+	<name>ELVIS</name>
+	<version>1.0</version>
+	<url>https://rebrand.ly/elvisbuild1</url>
 	<icon>http://</icon>
 	<fanart>http://</fanart>
-	<description>TECH NICK SECTION</description>	  
+	<description>ELVIS</description>	  
+</build>
+<build>
+	<name>SKELETOR</name>
+	<version>1.0</version>
+	<url>https://rebrand.ly/skeletor1</url>
+	<icon>https://imgur.com/71G5MxG.jpg</icon>
+	<fanart>https://imgur.com/71G5MxG.jpg</fanart>
+	<description>SKELETOR</description>	  
 </build>
 <build>
 	<name>EASTERN HEROES</name>
