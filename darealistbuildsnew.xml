@@ -342,6 +342,22 @@
 	<description>TECH NICK SECTION</description>	  
  </build>
  <build>
+	<name>ELVIS</name>
+	<version>1.0</version>
+	<url>https://rebrand.ly/elvisbuild1</url>
+	<icon>http://</icon>
+	<fanart>http://</fanart>
+	<description>ELVIS</description>	  
+</build>
+<build>
+	<name>SKELETOR</name>
+	<version>1.0</version>
+	<url>https://rebrand.ly/skeletor1</url>
+	<icon>https://imgur.com/71G5MxG.jpg</icon>
+	<fanart>https://imgur.com/71G5MxG.jpg</fanart>
+	<description>SKELETOR</description>	  
+</build>
+ <build>
 	<name>EASTERN HEROES</name>
 	<version>1.1</version>
 	<url>https://rebrand.ly/3d56b8</url>
