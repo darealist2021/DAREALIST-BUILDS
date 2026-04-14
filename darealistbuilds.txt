@@ -326,7 +326,7 @@ description="PITTSBURGH STEELERS BUILD."
 
 name="SPORTACULAR "
 version="2.9"
-url="https://rb.gy/0bi4ae"
+url="https://rebrand.ly/sports29"
 minor="http://"
 gui="http://"
 kodi="21.0"
