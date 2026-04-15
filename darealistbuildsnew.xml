@@ -317,6 +317,14 @@
 	<description>TECH NICK SECTION</description>	  
  </build>
  <build>
+	<name>AFTER DARK LITE</name>
+	<version>1.0</version>
+	<url>https://rebrand.ly/afterdarklite1</url>
+	<icon>https://imgur.com/ZsvyVVe.jpg</icon>
+	<fanart>https://imgur.com/ZsvyVVe.jpg</fanart>
+	<description>AFTER DARK LITE</description>	  
+</build>
+ <build>
 	<name>ELVIS</name>
 	<version>1.0</version>
 	<url>https://rebrand.ly/elvisbuild1</url>
