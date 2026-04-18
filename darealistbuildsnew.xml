@@ -2,6 +2,14 @@
 
 </build>
 <build>
+	<name>WICK TV</name>
+	<version>1.0</version>
+	<url>https://rebrand.ly/JOHNWICK1</url>
+	<icon>https://imgur.com/RiptX1j.jpg</icon>
+	<fanart>https://imgur.com/RiptX1j.jpg</fanart>
+	<description>JOHN WICK THEMED KODI BUILD.</description
+<build>
+<build>
 	<name>TV MEDIA</name>
 	<version>1.0</version>
 	<url>https://rebrand.ly/tvmedia1</url>
