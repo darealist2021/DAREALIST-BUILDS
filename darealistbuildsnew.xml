@@ -332,6 +332,14 @@
 	<description>TECH NICK SECTION</description>	  
  </build>
  <build>
+	<name>NITE OWL</name>
+	<version>1.6</version>
+	<url>https://rebrand.ly/niteowl16</url>
+	<icon>https://imgur.com/c0AopRt.jpg</icon>
+	<fanart>https://imgur.com/c0AopRt.jpg</fanart>
+	<description>NITE OWL</description>	  
+ </build>
+ <build>
 	<name>AFTER DARK LITE</name>
 	<version>1.1</version>
 	<url>https://rebrand.ly/afterdarklite11</url>
