@@ -331,6 +331,13 @@
 	<description>TECH NICK SECTION</description>	  
 </build>
 <build>
+	<name>NITE OWL</name>
+	<version>1.6</version>
+	<url>https://rebrand.ly/niteowl16</url>
+	<icon>https://imgur.com/c0AopRt.jpg</icon>
+	<fanart>https://imgur.com/c0AopRt.jpg</fanart>
+	<description>NITE OWL</description>
+<build>
 	<name>AFTER DARK LITE</name>
 	<version>1.1</version>
 	<url>https://rebrand.ly/afterdarklite11</url>
@@ -348,8 +355,8 @@
 </build>
 <build>
 	<name>SKELETOR</name>
-	<version>1.0</version>
-	<url>https://rebrand.ly/skeletor1</url>
+	<version>1.1</version>
+	<url>https://rebrand.ly/skeletor11</url>
 	<icon>https://imgur.com/71G5MxG.jpg</icon>
 	<fanart>https://imgur.com/71G5MxG.jpg</fanart>
 	<description>SKELETOR</description>	  
