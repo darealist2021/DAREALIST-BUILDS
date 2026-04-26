@@ -249,6 +249,14 @@
 	<description>DAREALIST ADULT SECTION</description>
  </build>
  <build>
+	<name>MAGIC CITY</name>
+	<version>1.0</version>
+	<url>https://rebrand.ly/magiccity1</url>
+	<icon>https://imgur.com/b5byNUC.jpg</icon>
+	<fanart>https://imgur.com/b5byNUC.jpg</fanart>
+	<description>MAGIC CITY</description>
+ </build>
+ <build>
 	<name>THE HUB</name>
 	<version>1.1</version>
 	<url>https://rebrand.ly/thehub11</url>
