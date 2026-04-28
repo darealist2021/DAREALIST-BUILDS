@@ -424,8 +424,8 @@ description="ADULT CONTENT."
 
 
 name="SERIOUS PARENTAL ADVISORY"
-version="1.0"
-url="https://rebrand.ly/parentaladvisory"
+version="1.1"
+url="https://rebrand.ly/PARENTALADVISORY11"
 minor="http://"
 gui="http://"
 kodi="21.0"
