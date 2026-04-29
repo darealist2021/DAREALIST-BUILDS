@@ -214,7 +214,7 @@ description="DALLAS COWBOYS."
 
 name="JOKER TV NO XXX"
 version="1.4"
-url="https://rb.gy/32qj95"
+url="https://rebrand.ly/JOKERNOXXX14"
 minor="http://"
 gui="http://"
 kodi="21.0"
