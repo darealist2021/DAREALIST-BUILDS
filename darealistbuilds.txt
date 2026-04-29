@@ -270,7 +270,7 @@ description="DAREALIST TV VERSION 2."
 
 name="GRAFFITI"
 version="2.6"
-url="https://rb.gy/zrxsbd"
+url="https://rebrand.ly/GRAFFITI26"
 minor="http://"
 gui="http://"
 kodi="21.0"
