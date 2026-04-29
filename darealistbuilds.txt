@@ -312,7 +312,7 @@ description="BUILD ABOUT OUTER SPACE."
 
 name="WIDGET ZONE OMEGA BUILD"
 version="1.4"
-url="https://rb.gy/vezhof"
+url="https://rebrand.ly/WIDGETZONE14"
 minor="http://"
 gui="http://"
 kodi="21.0"
