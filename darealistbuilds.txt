@@ -467,7 +467,7 @@ description="EXTREME ADULT CONTENT."
 
 name="GET CUMFY"
 version="1.5"
-url="https://rb.gy/h8qa3h"
+url="https://rebrand.ly/cumfy14"
 minor="http://"
 gui="http://"
 kodi="21.0"
