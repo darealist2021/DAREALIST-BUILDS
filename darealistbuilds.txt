@@ -228,7 +228,7 @@ description="JOKER TV NO XXX."
 
 name="CINEMA PLUS"
 version="1.9"
-url="https://rb.gy/w033dv"
+url="https://rebrand.ly/CIINEMA19"
 minor="http://"
 gui="http://"
 kodi="21.0"
