@@ -368,7 +368,7 @@ description="CAROLINA PANTHERS."
 
 name="THE NFL "
 version="3.1"
-url="https://rb.gy/0xtco2"
+url="https://rebrand.ly/NFL31"
 minor="http://"
 gui="http://"
 kodi="21.0"
