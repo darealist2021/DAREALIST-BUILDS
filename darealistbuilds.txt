@@ -200,7 +200,7 @@ description="SISTAS TV SHOW."
 
 name="DALLAS COWBOYS"
 version="1.4"
-url="https://rb.gy/8d4kjp"
+url="https://rebrand.ly/COWBOYS14"
 minor="http://"
 gui="http://"
 kodi="21.0"
