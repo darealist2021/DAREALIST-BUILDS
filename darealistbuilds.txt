@@ -13,7 +13,7 @@ adult="no"
 info="http://"
 description="DAREALIST Builds. Please select from the list below.
 
-"name="MICHAEL JACKSON"
+"name="MICHAEL"
 version="1.0"
 url="https://rebrand.ly/MICHAELJACKSON100"
 minor="http://"
