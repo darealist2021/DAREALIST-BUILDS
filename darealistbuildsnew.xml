@@ -26,14 +26,6 @@
 	<description>TV MEDIA IS A SIMPLE EASY TO USE KODI BUILD.</description>
 </build>
 <build>
-	<name>TV MEDIA</name>
-	<version>1.2</version>
-	<url>https://rebrand.ly/TVMEDIA12</url>
-	<icon>https://imgur.com/GJVJhxV.jpg</icon>
-	<fanart>https://imgur.com/GJVJhxV.jpg</fanart>
-	<description>TV MEDIA IS A SIMPLE EASY TO USE KODI BUILD.</description>
-</build>
-<build>
 	<name>MAJOR LEAGUE BASEBALL</name>
 	<version>1.4</version>
 	<url>https://rebrand.ly/MLB14</url>
