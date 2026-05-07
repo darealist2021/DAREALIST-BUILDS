@@ -315,6 +315,22 @@
 	<fanart>https://imgur.com/GwqvpAx.jpg</fanart>
 	<description>LOTS OF ADULT CONTENT.</description>
   </build>
+	<build>
+	<name>DAREALIST KODI 22 PIERS BUILDS</name>
+	<version>0.0</version>
+	<url>http://</url>
+	<icon>https://</icon>
+	<fanart>https://</fanart>
+	<description>DAREALIST KODI 22 BUILDS</description>	  
+</build>
+	<build>
+	<name>DAREALIST TV KODI 22</name>
+	<version>1.0</version>
+	<url>https://rebrand.ly/darealisttv22</url>
+	<icon>https://imgur.com/AWj4pNx.jpg</icon>
+	<fanart>https://imgur.com/AWj4pNx.jpg</fanart>
+	<description>DAREALIST TV KODI 22</description>	  
+</build>
   <build>
 	<name>TECH NICK KODI 21 OMEGA BUILDS</name>
 	<version>0.0</version>
