@@ -2,6 +2,14 @@
 
 </build>
 <build>
+	<name>MARSHALS DUTTON RANCH</name>
+	<version>1.0</version>
+	<url>https://rebrand.ly/MARSHALSDUTTONRANCH</url>
+	<icon>https://imgur.com/DiRKHap.jpg</icon>
+	<fanart>https://imgur.com/DiRKHap.jpg</fanart>
+	<description>MARSHALS DUTTON RANCH TV SHOWS 2 IN 1 BUILD.</description>
+</build>
+<build>
 	<name>MICHAEL</name>
 	<version>1.2</version>
 	<url>https://rebrand.ly/MICHAELJ12</url>
