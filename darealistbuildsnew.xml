@@ -2,6 +2,14 @@
 
 </build>
 <build>
+	<name>MANDALORIAN AND GROGU</name>
+	<version>1.0</version>
+	<url>https://rebrand.ly/MANDALORIANGROGU1</url>
+	<icon>https://imgur.com/1AqkA5Q.jpg</icon>
+	<fanart>https://imgur.com/1AqkA5Q.jpg</fanart>
+	<description>STAR WARS MANDALORIAN AND GROGU.</description>
+</build>
+<build>
 	<name>MARSHALS DUTTON RANCH</name>
 	<version>1.0</version>
 	<url>https://rebrand.ly/MARSHALSDUTTONSLASTVERSION</url>
