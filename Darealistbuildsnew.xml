@@ -347,6 +347,22 @@
 	<fanart>https://imgur.com/AWj4pNx.jpg</fanart>
 	<description>DAREALIST TV KODI 22</description>	  
 </build>
+ <build>
+	<name>BRADS KODI 21 OMEGA BUILDS</name>
+	<version>0.0</version>
+	<url>http://</url>
+	<icon>http://</icon>
+	<fanart>http://</fanart>
+	<description>BRADS BUILD SECTION</description>	  
+ </build>
+  <build>
+	<name>BRADS BOWLING BUILD</name>
+	<version>2.3</version>
+	<url>https://rebrand.ly/bradbowling23</url>
+	<icon>https://imgur.com/ZddyAW7.jpg</icon>
+	<fanart>https://imgur.com/ZddyAW7.jpg</fanart>
+	<description>BRADS BUILD SECTION</description>	  
+ </build>
   <build>
 	<name>TECH NICK KODI 21 OMEGA BUILDS</name>
 	<version>0.0</version>
