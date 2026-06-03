@@ -97,15 +97,7 @@
 	<fanart>https://imgur.com/grWW8J4.jpg</fanart>
 	<description>DOOMSDAY</description>
 </build>
-<build>
-	<name>SHOWTIME</name>
-	<version>1.0</version>
-	<url>https://rebrand.ly/SHOWTIME01</url>
-	<icon>https://imgur.com/ZeSS6OL.jpg</icon>
-	<fanart>https://imgur.com/ZeSS6OL.jpg</fanart>
-	<description>SHOWTIME</description>
-</build>
-<build>
+ <build>
 	<name>STRANGER THINGS</name>
 	<version>1.4</version>
 	<url>https://rebrand.ly/STRANGERTHINGS14</url>
@@ -192,15 +184,6 @@
 	<fanart>https://imgur.com/g1itI2c.jpg</fanart>
 	<description>CINEMA PLUS.</description>
 	<preview>https://rumble.com/v6tfs65-cinema-plus-kodi-build.html</preview>
-  </build>
-  <build>
-	<name>SQUID GAMES</name>
-	<version>1.4</version>
-	<url>https://rebrand.ly/SQUIDGAMES14</url>
-	<icon>https://imgur.com/LXw69t3.jpg</icon>
-	<fanart>https://imgur.com/LXw69t3.jpg</fanart>
-	<description>SQUID GAMES.</description>
-	<preview>https://rumble.com/v6udhf5-squid-games-kodi-build-32.bit-7259626-64bit-7026450.html</preview>
   </build>
   <build>
 	<name>STEELERS OMEGA</name>
