@@ -1,6 +1,14 @@
 <builds>
 
 </build>
+ <build>
+	<name>KODI ENTERTAINMENT CENTER</name>
+	<version>1.0</version>
+	<url>https://rebrand.ly/KODIENTERTAINMENT</url>
+	<icon>https://imgur.com/9XXjlrF.jpg</icon>
+	<fanart>https://imgur.com/9XXjlrF.jpg</fanart>
+	<description>KODI ENTERTAINMENT CENTER</description>
+ </build>
 <build>
 	<name>MANDALORIAN AND GROGU</name>
 	<version>1.0</version>
