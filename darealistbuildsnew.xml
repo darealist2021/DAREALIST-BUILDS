@@ -167,15 +167,6 @@
 	<description>DALLAS COWBOYS.</description>
 	<preview>https://rumble.com/v6xwwtk-dallas-cowboys-kodi-build-with-its-own-fork.html</preview>
 </build>
-<build>
-	<name>JOKER TV NO XXX</name>
-	<version>1.4</version>
-	<url>https://rebrand.ly/JOKERNOXXX14</url>
-	<icon>https://imgur.com/AEW439d.jpg</icon>
-	<fanart>https://imgur.com/AEW439d.jpg</fanart>
-	<description>JOKER TV.</description>
-	<preview>https://rumble.com/v6xocok-joker-tv-kodi-build.html</preview>
-  </build>
   <build>
 	<name>CINEMA PLUS</name>
 	<version>1.9</version>
@@ -289,15 +280,6 @@
 	<description>MANCAVE</description>
 	<preview>https://rumble.com/v6rpqs7-mancave-kodi-build.html</preview>
 </build>
-<build>
-	<name>JOKER TV XXX</name>
-	<version>1.5</version>
-	<url>https://rebrand.ly/0e8dd7</url>
-	<icon>https://imgur.com/AEW439d.jpg</icon>
-	<fanart>https://imgur.com/AEW439d.jpg</fanart>
-	<description>JOKER TV.</description>
-	<preview>https://rumble.com/v6xocok-joker-tv-kodi-build.html</preview>
- </build>
  <build>
 	<name>SEXTREMELY DIRTY</name>
 	<version>1.2</version>
