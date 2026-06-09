@@ -35,8 +35,8 @@
 </build>
 <build>
 	<name>WICK TV</name>
-	<version>1.1</version>
-	<url>https://rebrand.ly/WICKEDTV11</url>
+	<version>1.2</version>
+	<url>https://rebrand.ly/WICKTV12</url>
 	<icon>https://imgur.com/RiptX1j.jpg</icon>
 	<fanart>https://imgur.com/RiptX1j.jpg</fanart>
 	<description>JOHN WICK THEMED KODI BUILD.</description>
