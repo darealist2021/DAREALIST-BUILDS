@@ -474,5 +474,21 @@
 	<fanart>https://imgur.com/jsKdPar.jpg</fanart>
 	<description>iNON DEBRID</description>	  
 </build>
+   <build>
+	<name>CINEMA</name>
+	<version>2.5</version>
+	<url>https://tinyurl.com/cinemabuild25</url>
+	<icon>https://imgur.com/jGR0a2M.jpg</icon>
+	<fanart>https://imgur.com/jGR0a2M.jpg</fanart>
+	<description>CINEMA</description>	  
+ </build>
+   <build>
+	<name>CINEMA DEBRID</name>
+	<version>1.9</version>
+	<url>https://tinyurl.com/cinemadebrid19</url>
+	<icon>https://imgur.com/CCE4SiH.jpg</icon>
+	<fanart>https://imgur.com/CCE4SiH.jpg</fanart>
+	<description>CINEMA DEBRID</description>	  
+ </build>
 	 
 </builds>
