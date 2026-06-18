@@ -2,14 +2,6 @@
 
 </build>
   <build>
-	<name>TOUCH TV</name>
-	<version>1.0</version>
-	<url>https://rebrand.ly/TOUCHTVV1</url>
-	<icon>https://imgur.com/Nd1w58u.jpg</icon>
-	<fanart>https://imgur.com/Nd1w58u.jpg</fanart>
-	<description>BUILD DESIGNED FOR ALL DEVICES INCLUDING TOUCHSCREENS</description>
- </build>
-  <build>
 	<name>KODI ENTERTAINMENT CENTER</name>
 	<version>1.1</version>
 	<url>https://rebrand.ly/kodientertainment11</url>
@@ -326,6 +318,14 @@
 	<icon>http://</icon>
 	<fanart>http://</fanart>
 	<description>BRADS BUILD SECTION</description>	  
+ </build>
+  <build>
+	<name>BRAD'S TV</name>
+	<version>1.0</version>
+	<url>https://rebrand.ly/TOUCHTVV1</url>
+	<icon>https://imgur.com/Nd1w58u.jpg</icon>
+	<fanart>https://imgur.com/Nd1w58u.jpg</fanart>
+	<description>BUILD DESIGNED FOR ALL DEVICES INCLUDING TOUCHSCREENS</description>
  </build>
   <build>
 	<name>BRADS BOWLING BUILD</name>
