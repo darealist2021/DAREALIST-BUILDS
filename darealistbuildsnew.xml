@@ -303,6 +303,14 @@
 	<fanart>http://</fanart>
 	<description>BRADS BUILD SECTION</description>	  
  </build>
+	<build>
+	<name>MASTERS OF THE UNIVERSE</name>
+	<version>1.0</version>
+	<url>https://tinyurl.com/mastersoftheuniverse1</url>
+	<icon>https://imgur.com/rNoMsiv.jpg</icon>
+	<fanart>https://imgur.com/rNoMsiv.jpg</fanart>
+	<description>MASTERS OF THE UNIVERSE</description>	  
+ </build>
  <build>
 	<name>BRADS BOWLING BUILD</name>
 	<version>2.6</version>
