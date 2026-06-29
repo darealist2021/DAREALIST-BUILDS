@@ -1,6 +1,14 @@
 <builds>
 
 </build>
+ <build>
+	<name>TV FREE</name>
+	<version>1.0</version>
+	<url>https://rebrand.ly/TVFREE1</url>
+	<icon>https://imgur.com/8TH30Sk.jpg</icon>
+	<fanart>https://imgur.com/8TH30Sk.jpg</fanart>
+	<description>LOTS OF LIVE TV</description>
+ </build>
   <build>
 	<name>KODI ENTERTAINMENT CENTER</name>
 	<version>1.2</version>
