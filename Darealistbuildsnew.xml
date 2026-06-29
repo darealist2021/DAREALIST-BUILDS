@@ -1,6 +1,14 @@
 <builds>
 
 </build>
+ <build>
+	<name>TV FREE</name>
+	<version>1.0</version>
+	<url>https://rebrand.ly/TVFREE1</url>
+	<icon>https://imgur.com/8TH30Sk.jpg</icon>
+	<fanart>https://imgur.com/8TH30Sk.jpg</fanart>
+	<description>LOTS OF LIVE TV</description>
+ </build>
   <build>
 	<name>KODI ENTERTAINMENT CENTER</name>
 	<version>1.2</version>
@@ -74,14 +82,6 @@
 	<description>SPIDERMAN BRAND NEW DAY</description>
 </build>
 <build>
-	<name>DEADPOOL</name>
-	<version>1.3</version>
-	<url>https://rebrand.ly/deadpool13</url>
-	<icon>https://imgur.com/i1zQ4PT.jpg</icon>
-	<fanart>https://imgur.com/i1zQ4PT.jpg</fanart>
-	<description>DEADPOOL</description>
-</build>
-<build>
 	<name>GTA 6 NBA 2K26</name>
 	<version>1.1</version>
 	<url>https://rebrand.ly/GTANBA11</url>
@@ -106,32 +106,6 @@
 	<description>STRANGER THINGS</description>
  </build>
  <build>
-	<name>TULSA KING</name>
-	<version>1.2</version>
-	<url>https://rebrand.ly/TULSAKING12</url>
-	<icon>https://imgur.com/kTlmGyS.jpg</icon>
-	<fanart>https://imgur.com/kTlmGyS.jpg</fanart>
-	<description>TULSA KING</description>
-	<preview>https://rumble.com/v70xhn4-tulsa-king-kodi-build.html</preview>
- <build>
-<build>
-	<name>FRIGHT NIGHT</name>
-	<version>1.3</version>
-	<url>https://rebrand.ly/frightnight14</url>
-	<icon>https://imgur.com/e00m02u.jpg</icon>
-	<fanart>https://imgur.com/e00m02u.jpg</fanart>
-	<description>FRIGHT NIGHT</description>
-</build>
-<build>
-	<name>FRIGHT NIGHT</name>
-	<version>1.4</version>
-	<url>https://rebrand.ly/frightnight14</url>
-	<icon>https://imgur.com/e00m02u.jpg</icon>
-	<fanart>https://imgur.com/e00m02u.jpg</fanart>
-	<description>FRIGHT NIGHT</description>
-	<preview>https://rumble.com/v6zrtgi-fright-night-kodi-build.html</preview>
-</build>
-<build>
 	<name>IRONMAN MEDIA</name>
 	<version>1.8</version>
 	<url>https://rebrand.ly/IRONMAN18</url>
