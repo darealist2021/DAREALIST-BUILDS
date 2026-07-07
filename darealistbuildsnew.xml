@@ -317,6 +317,13 @@
 	<fanart>http://</fanart>
 	<description>TECH NICK SECTION</description>	  
  </build>
+	<name>SPIDER-NOIR</name>
+	<version>1.0</version>
+	<url>https://tinyurl.com/SPIDERNOIR1</url>
+	<icon>https://imgur.com/zs7PCxa.jpg</icon>
+	<fanart>https://imgur.com/zs7PCxa.jpg</fanart>
+	<description>SPIDER-NOIR</description>	  
+ </build>
  <build>
 	<name>NITE OWL</name>
 	<version>1.8</version>
