@@ -114,16 +114,7 @@
 	<description>IRONMAN MEDIA</description>
 	<preview>https://rumble.com/v6z04ok-ironman-media-kodi-build.html</preview>
 </build>
-<build>
-	<name>SISTAS TV SHOW</name>
-	<version>1.4</version>
-	<url>https://rebrand.ly/SISTAS14</url>
-	<icon>https://imgur.com/5FoPUYy.jpg</icon>
-	<fanart>https://imgur.com/5FoPUYy.jpg</fanart>
-	<description>SISTAS TV SHOW</description>
-	<preview>https://rumble.com/v6yra9i-tyler-perrys-sistas-tv-show-kodi-build.html</preview>
-</build>
-<build>
+ <build>
 	<name>CAROLINA PANTHERS</name>
 	<version>1.5</version>
 	<url>https://rebrand.ly/CAROLINAPANTHERS15</url>
