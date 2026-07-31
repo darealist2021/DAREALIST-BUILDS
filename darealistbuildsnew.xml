@@ -267,34 +267,10 @@
 	<fanart>https://imgur.com/EnOByfQ.jpg</fanart>
 	<description>BRADS BUILD SECTION</description>	  
  </build>
-	<build>
-	<name>MASTERS OF THE UNIVERSE</name>
-	<version>1.0</version>
-	<url>https://tinyurl.com/mastersoftheuniverse1</url>
-	<icon>https://imgur.com/rNoMsiv.jpg</icon>
-	<fanart>https://imgur.com/rNoMsiv.jpg</fanart>
-	<description>MASTERS OF THE UNIVERSE</description>	  
- </build>
- <build>
-	<name>BRADS BOWLING BUILD</name>
-	<version>3.0</version>
-	<url>https://tinyurl.com/4b2vy9cn</url>
-	<icon>https://imgur.com/ahpIhut.jpg</icon>
-	<fanart>https://imgur.com/ahpIhut.jpg</fanart>
-	<description>BRADS BUILD SECTION</description>	  
- </build>
-  <build>
-	<name>BRAD'S TV</name>
-	<version>1.0</version>
-	<url>https://tinyurl.com/bradstv1</url>
-	<icon>https://imgur.com/Nd1w58u.jpg</icon>
-	<fanart>https://imgur.com/Nd1w58u.jpg</fanart>
-	<description>BUILD DESIGNED FOR ALL DEVICES INCLUDING TOUCHSCREENS</description>
- </build>
   <build>
 	<name>BRADNOX LIVE</name>
-	<version>2.6</version>
-	<url>https://tinyurl.com/ye6ydf3y</url>
+	<version>2.7</version>
+	<url>https://tinyurl.com/3r77yadh</url>
 	<icon>https://imgur.com/ahpIhut.jpg</icon>
 	<fanart>https://imgur.com/ahpIhut.jpg</fanart>
 	<description>BRADNOX LIVE</description>	  
@@ -307,7 +283,7 @@
 	<fanart>http://</fanart>
 	<description>TECH NICK SECTION</description>	  
  </build>
-  <build>
+ <build>
 	<name>SPIDER-NOIR</name>
 	<version>1.0</version>
 	<url>https://tinyurl.com/SPIDERNOIR1</url>
@@ -422,6 +398,14 @@
 	<description>DR MANHATTAN.</description>
 	<preview>https://rumble.com/v6xgi7a-tech-nicks-dr-manhattan-kodi-build.html</preview>
 </build>
+  <build>
+	<name>DR MANHATTAN DIRTY</name>
+	<version>2.0</version>
+	<url>https://tinyurl.com/mvjdcaac/</url>
+	<icon>https://imgur.com/tokRUV5.jpg</icon>
+	<fanart>https://imgur.com/tokRUV5.jpg</fanart>
+	<description>DR MANHATTAN DIRTY</description>	  
+ </build>
 <build>
 	<name>FREEDOM</name>
 	<version>4.2</version>
