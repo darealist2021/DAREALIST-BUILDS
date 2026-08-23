@@ -260,6 +260,22 @@
 	<description>LOTS OF ADULT CONTENT.</description>
   </build>
   <build>
+	<name>BRADLEY'S BUILDS</name>
+	<version>1.0</version>
+	<url>http://</url>
+	<icon>https://imgur.com/gzYHjQH.jpg</icon>
+	<fanart>https://imgur.com/gzYHjQH.jpg</fanart>
+	<description>BRADLEY'S BUILDS</description>
+</build>
+ <build>
+	<name>BRAD'S TV</name>
+	<version>3.1</version>
+	<url>https://tinyurl.com/4yh7m949</url>
+	<icon>https://imgur.com/gzYHjQH.jpg</icon>
+	<fanart>https://imgur.com/gzYHjQH.jpg</fanart>
+	<description>BRAD'S TV</description>
+</build>
+  <build>
 	<name>TECH NICK KODI 21 OMEGA BUILDS</name>
 	<version>0.0</version>
 	<url>http://</url>
