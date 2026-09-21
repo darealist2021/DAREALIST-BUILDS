@@ -1,6 +1,14 @@
 <builds>
 
 </build>
+ <build>
+	<name>NFL</name>
+	<version>3.3</version>
+	<url>https://rebrand.ly/NFL33</url>
+	<icon>https://imgur.com/WWT7ckp.jpg</icon>
+	<fanart>https://imgur.com/WWT7ckp.jpg</fanart>
+	<description>NFL THEMED KODI BUILD</description>	  
+ </build>
   <build>    
 	<name>GRAFFITI</name>
 	<version>2.7</version>
