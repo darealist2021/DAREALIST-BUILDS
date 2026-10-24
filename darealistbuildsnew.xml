@@ -82,28 +82,12 @@
 	<description>MAJOR LEAGUE BASEBALL.</description>
 </build>
 <build>
-	<name>DAREALIST FLIX NO XXX</name>
-	<version>1.3</version>
-	<url>https://rebrand.ly/realistflix13</url>
-	<icon>https://imgur.com/FcSq3R6.jpg</icon>
-	<fanart>https://imgur.com/FcSq3R6.jpg</fanart>
-	<description>NETFLIX STYLE BUILD.</description>
-</build>
-<build>
 	<name>SPIDERMAN BRAND NEW DAY</name>
 	<version>1.1</version>
 	<url>https://rebrand.ly/SPIDERMAN11</url>
 	<icon>https://imgur.com/SeSnDDL.jpg</icon>
 	<fanart>https://imgur.com/SeSnDDL.jpg</fanart>
 	<description>SPIDERMAN BRAND NEW DAY</description>
-</build>
-<build>
-	<name>GTA 6 NBA 2K26</name>
-	<version>1.1</version>
-	<url>https://rebrand.ly/GTANBA11</url>
-	<icon>https://imgur.com/HjuD85G.jpg</icon>
-	<fanart>https://imgur.com/HjuD85G.jpg</fanart>
-	<description>GTA 6 NBA 2K26</description>
 </build>
 <build>
 	<name>DOOMSDAY</name>
@@ -113,15 +97,7 @@
 	<fanart>https://imgur.com/grWW8J4.jpg</fanart>
 	<description>DOOMSDAY</description>
 </build>
- <build>
-	<name>STRANGER THINGS</name>
-	<version>1.4</version>
-	<url>https://rebrand.ly/STRANGERTHINGS14</url>
-	<icon>https://imgur.com/GNVujaR.jpg</icon>
-	<fanart>https://imgur.com/GNVujaR.jpg</fanart>
-	<description>STRANGER THINGS</description>
- </build>
- <build>
+  <build>
 	<name>CAROLINA PANTHERS</name>
 	<version>1.5</version>
 	<url>https://rebrand.ly/CAROLINAPANTHERS15</url>
@@ -234,16 +210,7 @@
 	<fanart>https://imgur.com/mxyQtsu.jpg</fanart>
 	<description>SERIOUS PARENTAL ADVISORY</description>
  </build>
- <build>
-	<name>MANCAVE</name>
-	<version>1.7</version>
-	<url>https://rebrand.ly/MANCAVE17</url>
-	<icon>https://imgur.com/OcXSWl8.jpg</icon>
-	<fanart>https://imgur.com/OcXSWl8.jpg</fanart>
-	<description>MANCAVE</description>
-	<preview>https://rumble.com/v6rpqs7-mancave-kodi-build.html</preview>
-</build>
- <build>
+  <build>
 	<name>SEXTREMELY DIRTY</name>
 	<version>1.2</version>
 	<url>https://rebrand.ly/sextremlydirty12</url>
