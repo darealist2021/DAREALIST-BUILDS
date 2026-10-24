@@ -98,15 +98,6 @@
 	<description>DOOMSDAY</description>
 </build>
   <build>
-	<name>CAROLINA PANTHERS</name>
-	<version>1.5</version>
-	<url>https://rebrand.ly/CAROLINAPANTHERS15</url>
-	<icon>https://imgur.com/2x7Crco.jpg</icon>
-	<fanart>https://imgur.com/2x7Crco.jpg</fanart>
-	<description>CAROLINA PANTHERS</description>
-	<preview>https://rumble.com/v6z4j0e-carolina-panthers-kodi-build.html</preview>	
-</build>
-<build>
 	<name>IRONMAN MEDIA</name>
 	<version>1.9</version>
 	<url>https://rebrand.ly/IRONMAN19</url>
@@ -114,15 +105,6 @@
 	<fanart>https://imgur.com/K1oaTjy.jpg</fanart>
 	<description>IRONMAN MEDIA</description>
 	<preview>https://rumble.com/v6z04ok-ironman-media-kodi-build.html</preview>
-</build>
-<build>
-	<name>DALLAS COWBOYS</name>
-	<version>1.5</version>
-	<url>https://rebrand.ly/COWBOYSBUILD15</url>
-	<icon>https://imgur.com/0lZe5Ud.jpg</icon>
-	<fanart>https://imgur.com/0lZe5Ud.jpg</fanart>
-	<description>DALLAS COWBOYS.</description>
-	<preview>https://rumble.com/v6xwwtk-dallas-cowboys-kodi-build-with-its-own-fork.html</preview>
 </build>
   <build>
 	<name>CINEMA PLUS</name>
