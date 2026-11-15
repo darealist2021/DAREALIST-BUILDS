@@ -240,6 +240,14 @@
 	<fanart>https://imgur.com/gzYHjQH.jpg</fanart>
 	<description>BRAD'S TV</description>
 </build>
+ <build>
+	<name>BRADS EASY TV</name>
+	<version>1.0</version>
+	<url>https://tinyurl.com/BRADSEASYTV</url>
+	<icon>https://imgur.com/3joSsNu.jpg</icon>
+	<fanart>https://imgur.com/3joSsNu.jpg</fanart>
+	<description>BRADLEY'S BUILDS</description>
+</build>
   <build>
 	<name>TECH NICK KODI 21 OMEGA BUILDS</name>
 	<version>0.0</version>
