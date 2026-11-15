@@ -2,6 +2,14 @@
 
 </build>
  <build>
+	<name>TOUCH TV</name>
+	<version>1.0</version>
+	<url>https://rebrand.ly/TOUCHTV1</url>
+	<icon>https://imgur.com/OVJGTpl.jpg</icon>
+	<fanart>https://imgur.com/OVJGTpl.jpg</fanart>
+	<description>KODI BUILD FOR ALL DEVICES</description>	  
+ </build>
+ <build>
 	<name>NFL</name>
 	<version>3.3</version>
 	<url>https://rebrand.ly/NFL33</url>
