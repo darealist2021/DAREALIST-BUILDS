@@ -265,6 +265,14 @@
 	<description>TECH NICK SECTION</description>	  
 </build>
  <build>
+	<name>FIRESTICK THAT</name>
+	<version>2.1</version>
+	<url>https://tinyurl.com/firestickthat2-1</url>
+	<icon>https://imgur.com/89q6SPD.jpg</icon>
+	<fanart>https://imgur.com/89q6SPD.jpg</fanart>
+	<description>FIRESTICK THAT</description>	  
+ </build>
+  <build>
 	<name>SPIDER-NOIR</name>
 	<version>1.1</version>
 	<url>https://tinyurl.com/yzrdccet</url>
@@ -275,8 +283,8 @@
  <build>
 <build>
 	<name>NITE OWL</name>
-	<version>1.9</version>
-	<url>https://tinyurl.com/niteowl19</url>
+	<version>2.1</version>
+	<url>https://tinyurl.com/niteowl2-1</url>
 	<icon>https://imgur.com/c0AopRt.jpg</icon>
 	<fanart>https://imgur.com/c0AopRt.jpg</fanart>
 	<description>NITE OWL</description>
@@ -298,8 +306,8 @@
 </build>
 <build>
 	<name>SKELETOR</name>
-	<version>1.2</version>
-	<url>https://tinyurl.com/skeletor12</url>
+	<version>1.4</version>
+	<url>https://tinyurl.com/skeletor1-4</url>
 	<icon>https://imgur.com/71G5MxG.jpg</icon>
 	<fanart>https://imgur.com/71G5MxG.jpg</fanart>
 	<description>SKELETOR</description>	  
@@ -398,8 +406,8 @@
 </build>
 <build>
 	<name>PURE HORROR</name>
-	<version>2.7</version>
-	<url>https://tinyurl.com/46jaem2w</url>
+	<version>2.8</version>
+	<url>https://tinyurl.com/purehorror2-8</url>
 	<icon>https://imgur.com/Cno3zG6.jpg</icon>
 	<fanart>https://imgur.com/Cno3zG6.jpg</fanart>
 	<description>PURE HORROR</description>	  
